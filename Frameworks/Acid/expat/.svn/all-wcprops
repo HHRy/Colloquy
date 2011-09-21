@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3710/trunk/Frameworks/Acid/expat
+END
+xmltok_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/xmltok_impl.c
+END
+xmltok_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/xmltok_impl.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/config.h
+END
+nametab.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/nametab.h
+END
+xmltok.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3710/trunk/Frameworks/Acid/expat/xmltok.c
+END
+xmltok_ns.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/xmltok_ns.c
+END
+xmlrole.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/xmlrole.c
+END
+utf8tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/utf8tab.h
+END
+xmltok.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/xmltok.h
+END
+latin1tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/latin1tab.h
+END
+asciitab.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/asciitab.h
+END
+expat.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/expat.h
+END
+xmlrole.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/xmlrole.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/COPYING
+END
+winconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/winconfig.h
+END
+xmlparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3710/trunk/Frameworks/Acid/expat/xmlparse.c
+END
+iasciitab.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/iasciitab.h
+END
+ascii.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/expat/ascii.h
+END

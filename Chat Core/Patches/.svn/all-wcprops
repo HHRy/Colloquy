@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3150/trunk/Chat%20Core/Patches
+END
+silc-thread-safe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3150/trunk/Chat%20Core/Patches/silc-thread-safe.patch
+END
+silc-nick-change.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3150/trunk/Chat%20Core/Patches/silc-nick-change.patch
+END

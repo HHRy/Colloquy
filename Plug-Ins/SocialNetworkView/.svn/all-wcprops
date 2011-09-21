@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3371/trunk/Plug-Ins/SocialNetworkView
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2289/trunk/Plug-Ins/SocialNetworkView/version.plist
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2289/trunk/Plug-Ins/SocialNetworkView/main.m
+END
+KASocialNetworkView.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2289/trunk/Plug-Ins/SocialNetworkView/KASocialNetworkView.h
+END
+KAGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2289/trunk/Plug-Ins/SocialNetworkView/KAGraph.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2289/trunk/Plug-Ins/SocialNetworkView/Info.plist
+END
+SocialNetworkView_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2289/trunk/Plug-Ins/SocialNetworkView/SocialNetworkView_Prefix.pch
+END
+KASocialNetworkView.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2289/trunk/Plug-Ins/SocialNetworkView/KASocialNetworkView.m
+END
+KAEdge.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2289/trunk/Plug-Ins/SocialNetworkView/KAEdge.h
+END
+KANode.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2289/trunk/Plug-Ins/SocialNetworkView/KANode.h
+END
+KAGraph.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2290/trunk/Plug-Ins/SocialNetworkView/KAGraph.m
+END
+KAConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2289/trunk/Plug-Ins/SocialNetworkView/KAConfiguration.h
+END
+KAEdge.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2290/trunk/Plug-Ins/SocialNetworkView/KAEdge.m
+END
+KANode.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2290/trunk/Plug-Ins/SocialNetworkView/KANode.m
+END
+KAConfiguration.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2290/trunk/Plug-Ins/SocialNetworkView/KAConfiguration.m
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5250/trunk/Frameworks/PortMapper/framework/miniupnpc
+END
+minissdpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/minissdpc.h
+END
+upnpreplyparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/upnpreplyparse.h
+END
+igd_desc_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/igd_desc_parse.h
+END
+miniupnpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5250/trunk/Frameworks/PortMapper/framework/miniupnpc/miniupnpc.c
+END
+upnpcommands.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/upnpcommands.c
+END
+miniupnpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/miniupnpc.h
+END
+miniupnpcmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/miniupnpcmodule.c
+END
+upnpcommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/upnpcommands.h
+END
+minixml.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5250/trunk/Frameworks/PortMapper/framework/miniupnpc/minixml.c
+END
+minisoap.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/minisoap.c
+END
+upnperrors.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/upnperrors.c
+END
+miniupnpcstrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/miniupnpcstrings.h
+END
+codelength.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/codelength.h
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/LICENCE
+END
+bsdqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/bsdqueue.h
+END
+minixml.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/minixml.h
+END
+miniwget.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5250/trunk/Frameworks/PortMapper/framework/miniupnpc/miniwget.c
+END
+minisoap.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/minisoap.h
+END
+upnperrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/upnperrors.h
+END
+declspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/declspec.h
+END
+miniwget.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/miniwget.h
+END
+minissdpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/minissdpc.c
+END
+upnpreplyparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/upnpreplyparse.c
+END
+igd_desc_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4603/trunk/Frameworks/PortMapper/framework/miniupnpc/igd_desc_parse.c
+END

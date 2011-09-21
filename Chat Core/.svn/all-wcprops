@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5338/trunk/Chat%20Core
+END
+Transmission.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3807/trunk/Chat%20Core/Transmission.h
+END
+MVIRCFileTransfer.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5313/trunk/Chat%20Core/MVIRCFileTransfer.m
+END
+AsyncSocket.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5251/trunk/Chat%20Core/AsyncSocket.m
+END
+MVXMPPChatUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4887/trunk/Chat%20Core/MVXMPPChatUser.m
+END
+MVFileTransfer.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5313/trunk/Chat%20Core/MVFileTransfer.m
+END
+MVSILCChatUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3150/trunk/Chat%20Core/MVSILCChatUser.h
+END
+MVDirectChatConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4994/trunk/Chat%20Core/MVDirectChatConnection.h
+END
+MVChatConnectionPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4383/trunk/Chat%20Core/MVChatConnectionPrivate.h
+END
+MVICBChatUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3582/trunk/Chat%20Core/MVICBChatUser.h
+END
+MVChatUserWatchRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5125/trunk/Chat%20Core/MVChatUserWatchRule.h
+END
+MVIRCChatConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5338/trunk/Chat%20Core/MVIRCChatConnection.h
+END
+RegexKitLite.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4823/trunk/Chat%20Core/RegexKitLite.h
+END
+MVSILCChatUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4383/trunk/Chat%20Core/MVSILCChatUser.m
+END
+MVDirectChatConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5313/trunk/Chat%20Core/MVDirectChatConnection.m
+END
+MVChatConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5272/trunk/Chat%20Core/MVChatConnection.h
+END
+MVSILCFileTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3420/trunk/Chat%20Core/MVSILCFileTransfer.h
+END
+MVICBChatUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4887/trunk/Chat%20Core/MVICBChatUser.m
+END
+MVChatUserWatchRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5313/trunk/Chat%20Core/MVChatUserWatchRule.m
+END
+MVIRCChatConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5338/trunk/Chat%20Core/MVIRCChatConnection.m
+END
+RegexKitLite.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5251/trunk/Chat%20Core/RegexKitLite.m
+END
+MVChatConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5313/trunk/Chat%20Core/MVChatConnection.m
+END
+MVSILCFileTransfer.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5208/trunk/Chat%20Core/MVSILCFileTransfer.m
+END
+MVXMPPChatConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4080/trunk/Chat%20Core/MVXMPPChatConnection.h
+END
+MVChatUserPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4930/trunk/Chat%20Core/MVChatUserPrivate.h
+END
+MVXMPPChatConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5128/trunk/Chat%20Core/MVXMPPChatConnection.m
+END
+MVIRCChatRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4235/trunk/Chat%20Core/MVIRCChatRoom.h
+END
+MVSILCChatConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4096/trunk/Chat%20Core/MVSILCChatConnection.h
+END
+MVChatRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5125/trunk/Chat%20Core/MVChatRoom.h
+END
+MVICBChatConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4080/trunk/Chat%20Core/MVICBChatConnection.h
+END
+MVFileTransferPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5208/trunk/Chat%20Core/MVFileTransferPrivate.h
+END
+MVIRCChatRoom.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5313/trunk/Chat%20Core/MVIRCChatRoom.m
+END
+MVSILCChatConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5320/trunk/Chat%20Core/MVSILCChatConnection.m
+END
+MVChatRoom.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5313/trunk/Chat%20Core/MVChatRoom.m
+END
+MVXMPPChatRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3638/trunk/Chat%20Core/MVXMPPChatRoom.h
+END
+MVICBChatConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5321/trunk/Chat%20Core/MVICBChatConnection.m
+END
+ICBPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4887/trunk/Chat%20Core/ICBPacket.h
+END
+MVIRCNumerics.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5259/trunk/Chat%20Core/MVIRCNumerics.h
+END
+MVDirectChatConnectionPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4994/trunk/Chat%20Core/MVDirectChatConnectionPrivate.h
+END
+MVXMPPChatRoom.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5231/trunk/Chat%20Core/MVXMPPChatRoom.m
+END
+ICBPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5128/trunk/Chat%20Core/ICBPacket.m
+END
+MVSILCChatRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4383/trunk/Chat%20Core/MVSILCChatRoom.h
+END
+MVDirectClientConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4887/trunk/Chat%20Core/MVDirectClientConnection.h
+END
+MVChatPluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5136/trunk/Chat%20Core/MVChatPluginManager.h
+END
+MVICBChatRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3722/trunk/Chat%20Core/MVICBChatRoom.h
+END
+MVSILCChatRoom.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5128/trunk/Chat%20Core/MVSILCChatRoom.m
+END
+MVDirectClientConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5320/trunk/Chat%20Core/MVDirectClientConnection.m
+END
+MVChatPluginManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5137/trunk/Chat%20Core/MVChatPluginManager.m
+END
+MVICBChatRoom.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5128/trunk/Chat%20Core/MVICBChatRoom.m
+END
+InterThreadMessaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3713/trunk/Chat%20Core/InterThreadMessaging.h
+END
+MVChatString.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3983/trunk/Chat%20Core/MVChatString.h
+END
+MVChatRoomPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4930/trunk/Chat%20Core/MVChatRoomPrivate.h
+END
+InterThreadMessaging.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5313/trunk/Chat%20Core/InterThreadMessaging.m
+END
+MVAvailability.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4706/trunk/Chat%20Core/MVAvailability.h
+END
+MVIRCChatUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3537/trunk/Chat%20Core/MVIRCChatUser.h
+END
+MVChatUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5328/trunk/Chat%20Core/MVChatUser.h
+END
+MVIRCChatUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5313/trunk/Chat%20Core/MVIRCChatUser.m
+END
+MVIRCFileTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4994/trunk/Chat%20Core/MVIRCFileTransfer.h
+END
+MVChatUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5313/trunk/Chat%20Core/MVChatUser.m
+END
+AsyncSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4415/trunk/Chat%20Core/AsyncSocket.h
+END
+MVXMPPChatUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3643/trunk/Chat%20Core/MVXMPPChatUser.h
+END
+MVFileTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5208/trunk/Chat%20Core/MVFileTransfer.h
+END
+ChatCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3786/trunk/Chat%20Core/ChatCore.h
+END

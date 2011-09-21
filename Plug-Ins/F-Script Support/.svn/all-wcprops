@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5273/trunk/Plug-Ins/F-Script%20Support
+END
+JVFScriptChatPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3482/trunk/Plug-Ins/F-Script%20Support/JVFScriptChatPlugin.h
+END
+JVFScriptConsolePanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3233/trunk/Plug-Ins/F-Script%20Support/JVFScriptConsolePanel.h
+END
+JVFScriptChatPlugin.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5122/trunk/Plug-Ins/F-Script%20Support/JVFScriptChatPlugin.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3751/trunk/Plug-Ins/F-Script%20Support/Info.plist
+END
+console.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2365/trunk/Plug-Ins/F-Script%20Support/console.png
+END
+JVFScriptPluginLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2428/trunk/Plug-Ins/F-Script%20Support/JVFScriptPluginLoader.h
+END
+JVFScriptConsolePanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3462/trunk/Plug-Ins/F-Script%20Support/JVFScriptConsolePanel.m
+END
+JVFScriptPluginLoader.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5102/trunk/Plug-Ins/F-Script%20Support/JVFScriptPluginLoader.m
+END

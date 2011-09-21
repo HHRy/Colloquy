@@ -1,0 +1,839 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/5329/trunk/Resources
+END
+sidebarActionWidgetPressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3206/trunk/Resources/sidebarActionWidgetPressed.png
+END
+deleteWidget.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2722/trunk/Resources/deleteWidget.png
+END
+emoticons.plist
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3504/trunk/Resources/emoticons.plist
+END
+ChatPlugIn.scriptTerminology
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3414/trunk/Resources/ChatPlugIn.scriptTerminology
+END
+window.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2722/trunk/Resources/window.png
+END
+info.colloquy.plist
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5208/trunk/Resources/info.colloquy.plist
+END
+magnifying-default.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5221/trunk/Resources/magnifying-default.png
+END
+connectedSelected.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3203/trunk/Resources/connectedSelected.png
+END
+room.png
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3203/trunk/Resources/room.png
+END
+preview.colloquyTranscript
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3348/trunk/Resources/preview.colloquyTranscript
+END
+splitviewDimple.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3208/trunk/Resources/splitviewDimple.png
+END
+done.png
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3203/trunk/Resources/done.png
+END
+aquaTabDivider.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1436/trunk/Resources/aquaTabDivider.png
+END
+aquaTabLeft.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1436/trunk/Resources/aquaTabLeft.png
+END
+sidebarResizeWidget.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3206/trunk/Resources/sidebarResizeWidget.png
+END
+smartTranscript.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2463/trunk/Resources/smartTranscript.png
+END
+ChatCore.scriptTerminology
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5208/trunk/Resources/ChatCore.scriptTerminology
+END
+founder.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3237/trunk/Resources/founder.png
+END
+viewAlert.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3203/trunk/Resources/viewAlert.png
+END
+smartTranscriptTabActivity.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2463/trunk/Resources/smartTranscriptTabActivity.png
+END
+actionWidgetPressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3205/trunk/Resources/actionWidgetPressed.png
+END
+roomTabNewHighlightMessage.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1661/trunk/Resources/roomTabNewHighlightMessage.png
+END
+privateChatTabNewMessage.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1685/trunk/Resources/privateChatTabNewMessage.png
+END
+roomTopicBanner.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3937/trunk/Resources/roomTopicBanner.html
+END
+stop.png
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3203/trunk/Resources/stop.png
+END
+statusOffline.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3203/trunk/Resources/statusOffline.png
+END
+smartTranscriptTab.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2463/trunk/Resources/smartTranscriptTab.png
+END
+sound.png
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3203/trunk/Resources/sound.png
+END
+favoritesPressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3203/trunk/Resources/favoritesPressed.png
+END
+error.png
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3203/trunk/Resources/error.png
+END
+statusHeader.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3203/trunk/Resources/statusHeader.png
+END
+deleteWidgetPressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2722/trunk/Resources/deleteWidgetPressed.png
+END
+splitviewDividerBackground.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3208/trunk/Resources/splitviewDividerBackground.png
+END
+check-default.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5221/trunk/Resources/check-default.png
+END
+connected.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3203/trunk/Resources/connected.png
+END
+addSquareWidgetPressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2722/trunk/Resources/addSquareWidgetPressed.png
+END
+Read Me.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2558/trunk/Resources/Read%20Me.rtf
+END
+BSD License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3150/trunk/Resources/BSD%20License.txt
+END
+download.png
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3203/trunk/Resources/download.png
+END
+ColloquyScripting.r
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5208/trunk/Resources/ColloquyScripting.r
+END
+targetWindow.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2722/trunk/Resources/targetWindow.png
+END
+actionWidget.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3205/trunk/Resources/actionWidget.png
+END
+statusIdle.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3203/trunk/Resources/statusIdle.png
+END
+aquaTabCloseBack.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3203/trunk/Resources/aquaTabCloseBack.png
+END
+clear.png
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3203/trunk/Resources/clear.png
+END
+admin.png
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3203/trunk/Resources/admin.png
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3664/trunk/Resources/base.html
+END
+x-click.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5221/trunk/Resources/x-click.png
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5329/trunk/Resources/Info.plist
+END
+person.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3203/trunk/Resources/person.png
+END
+actions.plist
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1/trunk/Resources/actions.plist
+END
+sidebarActionWidget.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3206/trunk/Resources/sidebarActionWidget.png
+END
+NSCoreSuite.scriptTerminology
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2950/trunk/Resources/NSCoreSuite.scriptTerminology
+END
+statusAvailable.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3203/trunk/Resources/statusAvailable.png
+END
+pending.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3203/trunk/Resources/pending.png
+END
+Generic.icns
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/186/trunk/Resources/Generic.icns
+END
+topicToggleUp.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2971/trunk/Resources/topicToggleUp.png
+END
+retry-default.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5221/trunk/Resources/retry-default.png
+END
+verbs.plist
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4548/trunk/Resources/verbs.plist
+END
+default.css
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3431/trunk/Resources/default.css
+END
+Keychain.png
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1072/trunk/Resources/Keychain.png
+END
+newMessage.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3203/trunk/Resources/newMessage.png
+END
+serverWindow.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4094/trunk/Resources/serverWindow.png
+END
+check-click.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5221/trunk/Resources/check-click.png
+END
+favorites.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3203/trunk/Resources/favorites.png
+END
+aquaTabClose.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3203/trunk/Resources/aquaTabClose.png
+END
+gearSmall.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2733/trunk/Resources/gearSmall.png
+END
+topicToggleDown.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2971/trunk/Resources/topicToggleDown.png
+END
+magnifying-click.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5221/trunk/Resources/magnifying-click.png
+END
+AlertCautionIcon.icns
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1250/trunk/Resources/AlertCautionIcon.icns
+END
+aquaTabRight.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1436/trunk/Resources/aquaTabRight.png
+END
+editWidgetPressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2722/trunk/Resources/editWidgetPressed.png
+END
+notifications.plist
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3921/trunk/Resources/notifications.plist
+END
+smartTranscriptSettings.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2465/trunk/Resources/smartTranscriptSettings.png
+END
+roomTabNewMessage.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1661/trunk/Resources/roomTabNewMessage.png
+END
+Info-StandardCommands.plist
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3041/trunk/Resources/Info-StandardCommands.plist
+END
+ChatCore.scriptSuite
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5208/trunk/Resources/ChatCore.scriptSuite
+END
+Colloquy.r
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2950/trunk/Resources/Colloquy.r
+END
+newHighlightMessage.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3203/trunk/Resources/newHighlightMessage.png
+END
+half-op.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3203/trunk/Resources/half-op.png
+END
+x-hover.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5221/trunk/Resources/x-hover.png
+END
+aquaTabCloseRollover.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3203/trunk/Resources/aquaTabCloseRollover.png
+END
+x-default.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5221/trunk/Resources/x-default.png
+END
+colloquy-alpha.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3203/trunk/Resources/colloquy-alpha.png
+END
+NSCoreSuite.scriptSuite
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2950/trunk/Resources/NSCoreSuite.scriptSuite
+END
+connectingSelected.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3203/trunk/Resources/connectingSelected.png
+END
+roomTab.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1661/trunk/Resources/roomTab.png
+END
+NSTextSuite.scriptTerminology
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2892/trunk/Resources/NSTextSuite.scriptTerminology
+END
+op.png
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3203/trunk/Resources/op.png
+END
+topicBackground.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3661/trunk/Resources/topicBackground.png
+END
+markDisplay.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2617/trunk/Resources/markDisplay.png
+END
+Colloquy.scriptTerminology
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3414/trunk/Resources/Colloquy.scriptTerminology
+END
+transcriptSchema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3236/trunk/Resources/transcriptSchema.sql
+END
+sidebarFavoritesWidgetPressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3206/trunk/Resources/sidebarFavoritesWidgetPressed.png
+END
+retry-click.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5221/trunk/Resources/retry-click.png
+END
+editWidget.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2722/trunk/Resources/editWidget.png
+END
+info.png
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3203/trunk/Resources/info.png
+END
+aquaTabMiddle.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1436/trunk/Resources/aquaTabMiddle.png
+END
+check-hover.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5221/trunk/Resources/check-hover.png
+END
+sidebarFavoritesWidget.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3206/trunk/Resources/sidebarFavoritesWidget.png
+END
+privateChatTab.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1685/trunk/Resources/privateChatTab.png
+END
+Colloquy.sdef
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5208/trunk/Resources/Colloquy.sdef
+END
+statusAway.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3203/trunk/Resources/statusAway.png
+END
+voice.png
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3203/trunk/Resources/voice.png
+END
+inspector.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3203/trunk/Resources/inspector.png
+END
+default.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3635/trunk/Resources/default.xsl
+END
+magnifying-hover.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5221/trunk/Resources/magnifying-hover.png
+END
+default.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3123/trunk/Resources/default.js
+END
+reveal.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3203/trunk/Resources/reveal.png
+END
+stopped.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3203/trunk/Resources/stopped.png
+END
+newWindow.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2800/trunk/Resources/newWindow.png
+END
+largePerson.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3203/trunk/Resources/largePerson.png
+END
+autoHeader.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3203/trunk/Resources/autoHeader.png
+END
+styleOptions.plist
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3395/trunk/Resources/styleOptions.plist
+END
+connecting.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3203/trunk/Resources/connecting.png
+END
+NSTextSuite.scriptSuite
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2892/trunk/Resources/NSTextSuite.scriptSuite
+END
+infoWidget.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/997/trunk/Resources/infoWidget.png
+END
+none.png
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3203/trunk/Resources/none.png
+END
+SparkleUpdatePublicDSAKey.pem
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4618/trunk/Resources/SparkleUpdatePublicDSAKey.pem
+END
+Colloquy.scriptSuite
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2950/trunk/Resources/Colloquy.scriptSuite
+END
+CQActivityWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5176/trunk/Resources/CQActivityWindow.xib
+END
+sidebarStatusAreaBackground.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3206/trunk/Resources/sidebarStatusAreaBackground.png
+END
+super-op.png
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3237/trunk/Resources/super-op.png
+END
+viewAlertSelected.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3203/trunk/Resources/viewAlertSelected.png
+END
+addSquareWidget.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2722/trunk/Resources/addSquareWidget.png
+END
+GPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2558/trunk/Resources/GPL.txt
+END
+aquaTabBackground.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1436/trunk/Resources/aquaTabBackground.png
+END
+Stickies.png
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1072/trunk/Resources/Stickies.png
+END
+personHeader.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3203/trunk/Resources/personHeader.png
+END
+Colloquy.icns
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/186/trunk/Resources/Colloquy.icns
+END
+upload.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3203/trunk/Resources/upload.png
+END
+infoWidgetPressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/997/trunk/Resources/infoWidgetPressed.png
+END
+retry-hover.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5221/trunk/Resources/retry-hover.png
+END
+Agenda.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2558/trunk/Resources/Agenda.rtf
+END
+Info-ChatCore.plist
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3041/trunk/Resources/Info-ChatCore.plist
+END
+ChatPlugIn.scriptSuite
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2892/trunk/Resources/ChatPlugIn.scriptSuite
+END
+roomTopicBanner.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3661/trunk/Resources/roomTopicBanner.js
+END
+aquaTabClosePressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3203/trunk/Resources/aquaTabClosePressed.png
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3606/trunk/Resources/template.html
+END

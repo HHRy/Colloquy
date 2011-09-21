@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5304/trunk/Mac/Shared/Protocols
+END
+CQColloquyClientProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5304/trunk/Mac/Shared/Protocols/CQColloquyClientProtocol.h
+END
+CQColloquyDaemonProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5304/trunk/Mac/Shared/Protocols/CQColloquyDaemonProtocol.h
+END

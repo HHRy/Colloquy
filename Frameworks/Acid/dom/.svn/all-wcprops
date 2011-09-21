@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5111/trunk/Frameworks/Acid/dom
+END
+XMLElementStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4683/trunk/Frameworks/Acid/dom/XMLElementStream.m
+END
+acid-dom.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/dom/acid-dom.h
+END
+XMLElement.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5111/trunk/Frameworks/Acid/dom/XMLElement.m
+END
+XMLCData.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/dom/XMLCData.m
+END
+XMLAccumulator.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/dom/XMLAccumulator.m
+END
+XMLQName.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5111/trunk/Frameworks/Acid/dom/XMLQName.m
+END

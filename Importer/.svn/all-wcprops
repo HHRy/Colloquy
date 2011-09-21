@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5119/trunk/Importer
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3041/trunk/Importer/schema.xml
+END
+GetMetadataForFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5119/trunk/Importer/GetMetadataForFile.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3041/trunk/Importer/Info.plist
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3808/trunk/Importer/main.c
+END

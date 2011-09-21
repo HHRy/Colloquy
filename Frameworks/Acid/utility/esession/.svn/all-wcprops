@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3761/trunk/Frameworks/Acid/utility/esession
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/utility/esession/buffer.h
+END
+keycache.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3710/trunk/Frameworks/Acid/utility/esession/keycache.h
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3710/trunk/Frameworks/Acid/utility/esession/base64.c
+END
+esession.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3761/trunk/Frameworks/Acid/utility/esession/esession.c
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3710/trunk/Frameworks/Acid/utility/esession/base64.h
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3710/trunk/Frameworks/Acid/utility/esession/buffer.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/utility/esession/Makefile
+END
+keycache.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3710/trunk/Frameworks/Acid/utility/esession/keycache.c
+END
+esession.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3710/trunk/Frameworks/Acid/utility/esession/esession.h
+END

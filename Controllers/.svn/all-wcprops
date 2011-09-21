@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5341/trunk/Controllers
+END
+MVConnectionsController.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5113/trunk/Controllers/MVConnectionsController.h
+END
+JVNotificationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4628/trunk/Controllers/JVNotificationController.h
+END
+JVTranscriptFindWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4639/trunk/Controllers/JVTranscriptFindWindowController.m
+END
+JVChatViewCriterionController.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3808/trunk/Controllers/JVChatViewCriterionController.h
+END
+MVConnectionsController.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5334/trunk/Controllers/MVConnectionsController.m
+END
+JVNotificationController.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5115/trunk/Controllers/JVNotificationController.m
+END
+JVChatViewCriterionController.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5234/trunk/Controllers/JVChatViewCriterionController.m
+END
+MVApplicationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5328/trunk/Controllers/MVApplicationController.h
+END
+JVInspectorController.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3361/trunk/Controllers/JVInspectorController.h
+END
+JVSpeechController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3072/trunk/Controllers/JVSpeechController.h
+END
+JVChatWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5291/trunk/Controllers/JVChatWindowController.h
+END
+JVTranscriptCriterionController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3418/trunk/Controllers/JVTranscriptCriterionController.h
+END
+CQActivityWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5299/trunk/Controllers/CQActivityWindowController.h
+END
+MVApplicationController.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5341/trunk/Controllers/MVApplicationController.m
+END
+JVInspectorController.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5326/trunk/Controllers/JVInspectorController.m
+END
+JVSpeechController.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5141/trunk/Controllers/JVSpeechController.m
+END
+JVChatWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5325/trunk/Controllers/JVChatWindowController.m
+END
+JVTranscriptCriterionController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5234/trunk/Controllers/JVTranscriptCriterionController.m
+END
+CQActivityWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5299/trunk/Controllers/CQActivityWindowController.m
+END
+JVChatController.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4777/trunk/Controllers/JVChatController.h
+END
+PFMoveApplicationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4634/trunk/Controllers/PFMoveApplicationController.h
+END
+JVChatController.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5334/trunk/Controllers/JVChatController.m
+END
+PFMoveApplicationController.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4634/trunk/Controllers/PFMoveApplicationController.m
+END
+JVAnalyticsController.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4614/trunk/Controllers/JVAnalyticsController.h
+END
+MVFileTransferController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5328/trunk/Controllers/MVFileTransferController.h
+END
+MVCrashCatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5146/trunk/Controllers/MVCrashCatcher.h
+END
+JVAnalyticsController.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5186/trunk/Controllers/JVAnalyticsController.m
+END
+MVFileTransferController.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5334/trunk/Controllers/MVFileTransferController.m
+END
+MVCrashCatcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5148/trunk/Controllers/MVCrashCatcher.m
+END
+NSPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4165/trunk/Controllers/NSPreferences.h
+END
+KABubbleWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5113/trunk/Controllers/KABubbleWindowController.h
+END
+JVSidebarChatWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3219/trunk/Controllers/JVSidebarChatWindowController.h
+END
+JVPreferencesController.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3072/trunk/Controllers/JVPreferencesController.h
+END
+KABubbleWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5142/trunk/Controllers/KABubbleWindowController.m
+END
+JVSidebarChatWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5122/trunk/Controllers/JVSidebarChatWindowController.m
+END
+JVPreferencesController.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3763/trunk/Controllers/JVPreferencesController.m
+END
+MVBuddyListController.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3544/trunk/Controllers/MVBuddyListController.h
+END
+JVTabbedChatWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4386/trunk/Controllers/JVTabbedChatWindowController.h
+END
+MVBuddyListController.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5334/trunk/Controllers/MVBuddyListController.m
+END
+JVChatRoomBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4290/trunk/Controllers/JVChatRoomBrowser.h
+END
+JVTabbedChatWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5140/trunk/Controllers/JVTabbedChatWindowController.m
+END
+JVChatRoomBrowser.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5326/trunk/Controllers/JVChatRoomBrowser.m
+END
+JVTranscriptFindWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5113/trunk/Controllers/JVTranscriptFindWindowController.h
+END

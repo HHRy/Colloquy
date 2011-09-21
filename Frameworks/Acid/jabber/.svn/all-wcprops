@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5112/trunk/Frameworks/Acid/jabber
+END
+JabberRoster.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3710/trunk/Frameworks/Acid/jabber/JabberRoster.m
+END
+Jabber.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3793/trunk/Frameworks/Acid/jabber/Jabber.m
+END
+JabberPresenceTracker.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/jabber/JabberPresenceTracker.m
+END
+JabberSession.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4383/trunk/Frameworks/Acid/jabber/JabberSession.m
+END
+JabberMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5112/trunk/Frameworks/Acid/jabber/JabberMessage.m
+END
+JabberPresence.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/jabber/JabberPresence.m
+END
+JabberID.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/jabber/JabberID.h
+END
+JabberStdAuthManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3710/trunk/Frameworks/Acid/jabber/JabberStdAuthManager.m
+END
+JabberGroupTracker.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4383/trunk/Frameworks/Acid/jabber/JabberGroupTracker.m
+END
+JabberSocket.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5112/trunk/Frameworks/Acid/jabber/JabberSocket.m
+END
+acid-jabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4383/trunk/Frameworks/Acid/jabber/acid-jabber.h
+END
+JabberIQ.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5111/trunk/Frameworks/Acid/jabber/JabberIQ.m
+END
+JabberID.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5111/trunk/Frameworks/Acid/jabber/JabberID.m
+END
+JabberSubscriptionRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5112/trunk/Frameworks/Acid/jabber/JabberSubscriptionRequest.m
+END

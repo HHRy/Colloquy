@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5304/trunk/Mac/Application/Controllers
+END
+CQDaemonConnectionController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5301/trunk/Mac/Application/Controllers/CQDaemonConnectionController.h
+END
+CQDaemonConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5304/trunk/Mac/Application/Controllers/CQDaemonConnection.m
+END
+CQColloquyApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5258/trunk/Mac/Application/Controllers/CQColloquyApplication.h
+END
+CQDaemonConnectionController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5304/trunk/Mac/Application/Controllers/CQDaemonConnectionController.m
+END
+CQDaemonConnectionPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5304/trunk/Mac/Application/Controllers/CQDaemonConnectionPrivate.h
+END
+CQLocalDaemonConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5304/trunk/Mac/Application/Controllers/CQLocalDaemonConnection.h
+END
+CQColloquyApplication.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5301/trunk/Mac/Application/Controllers/CQColloquyApplication.m
+END
+CQDaemonConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5304/trunk/Mac/Application/Controllers/CQDaemonConnection.h
+END
+CQLocalDaemonConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5304/trunk/Mac/Application/Controllers/CQLocalDaemonConnection.m
+END

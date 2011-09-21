@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/5320/trunk/Additions
+END
+NSNotificationAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5313/trunk/Additions/NSNotificationAdditions.m
+END
+NSNumberAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4383/trunk/Additions/NSNumberAdditions.m
+END
+NSAttributedStringAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3072/trunk/Additions/NSAttributedStringAdditions.h
+END
+NSMethodSignatureAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3072/trunk/Additions/NSMethodSignatureAdditions.h
+END
+NSScriptCommandAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3072/trunk/Additions/NSScriptCommandAdditions.h
+END
+NSAttributedStringAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5128/trunk/Additions/NSAttributedStringAdditions.m
+END
+NSDictionaryAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5047/trunk/Additions/NSDictionaryAdditions.h
+END
+NSMethodSignatureAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5287/trunk/Additions/NSMethodSignatureAdditions.m
+END
+NSCharacterSetAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5084/trunk/Additions/NSCharacterSetAdditions.h
+END
+NSScriptCommandAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5115/trunk/Additions/NSScriptCommandAdditions.m
+END
+NSBundleAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3072/trunk/Additions/NSBundleAdditions.h
+END
+NSTextStorageAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3072/trunk/Additions/NSTextStorageAdditions.h
+END
+NSFileManagerAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5134/trunk/Additions/NSFileManagerAdditions.h
+END
+NSDictionaryAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5047/trunk/Additions/NSDictionaryAdditions.m
+END
+NSCharacterSetAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5313/trunk/Additions/NSCharacterSetAdditions.m
+END
+MVUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5320/trunk/Additions/MVUtilities.h
+END
+NSBundleAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3460/trunk/Additions/NSBundleAdditions.m
+END
+NSTextStorageAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4386/trunk/Additions/NSTextStorageAdditions.m
+END
+NSFileManagerAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5137/trunk/Additions/NSFileManagerAdditions.m
+END
+NSAttributedStringMoreAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3418/trunk/Additions/NSAttributedStringMoreAdditions.h
+END
+NSImageAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3072/trunk/Additions/NSImageAdditions.h
+END
+NSAttributedStringMoreAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5114/trunk/Additions/NSAttributedStringMoreAdditions.m
+END
+NSImageAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5115/trunk/Additions/NSImageAdditions.m
+END
+NSScannerAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5047/trunk/Additions/NSScannerAdditions.h
+END
+NSScannerAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5128/trunk/Additions/NSScannerAdditions.m
+END
+NSURLAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3072/trunk/Additions/NSURLAdditions.h
+END
+NSObjectAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5240/trunk/Additions/NSObjectAdditions.h
+END
+NSStringAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5255/trunk/Additions/NSStringAdditions.h
+END
+NSURLAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5151/trunk/Additions/NSURLAdditions.m
+END
+NSDataAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5065/trunk/Additions/NSDataAdditions.h
+END
+NSObjectAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5240/trunk/Additions/NSObjectAdditions.m
+END
+NSStringAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5314/trunk/Additions/NSStringAdditions.m
+END
+NSDateAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5289/trunk/Additions/NSDateAdditions.h
+END
+NSColorAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3072/trunk/Additions/NSColorAdditions.h
+END
+NSDataAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5313/trunk/Additions/NSDataAdditions.m
+END
+NSDateAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5290/trunk/Additions/NSDateAdditions.m
+END
+NSColorAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5128/trunk/Additions/NSColorAdditions.m
+END
+NSNotificationAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3729/trunk/Additions/NSNotificationAdditions.h
+END
+NSNumberAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3419/trunk/Additions/NSNumberAdditions.h
+END

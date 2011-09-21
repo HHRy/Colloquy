@@ -1,0 +1,1099 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1C062247134A115C001D3201 /* ColloquyDaemon.sb in Resources */ = {isa = PBXBuildFile; fileRef = 1C06222713492B29001D3201 /* ColloquyDaemon.sb */; };
+		1C15B1B81310CD46006FA16B /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C15B1B71310CD46006FA16B /* JavaScriptCore.framework */; };
+		1C15B1B91310CFB5006FA16B /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CCB9DC2130A7E6E009F679C /* SystemConfiguration.framework */; };
+		1C15B1DE1310D02A006FA16B /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C15B1B71310CD46006FA16B /* JavaScriptCore.framework */; };
+		1C15B1EA1310DF8B006FA16B /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1C15B1E81310DF8B006FA16B /* MainMenu.xib */; };
+		1C15B1F61310EA70006FA16B /* CQColloquyApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C15B1F51310EA70006FA16B /* CQColloquyApplication.m */; };
+		1C15B1F81310EA92006FA16B /* ColloquyApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C15B1F71310EA92006FA16B /* ColloquyApplication.m */; };
+		1C15B1F91310EB91006FA16B /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C15B1C31310CFF5006FA16B /* AppKit.framework */; };
+		1C15B1FB1310EC4C006FA16B /* libicucore.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CCB9DAF130A7E29009F679C /* libicucore.dylib */; };
+		1C15B26013117BF4006FA16B /* CQAnalyticsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C15B25E13117BF4006FA16B /* CQAnalyticsController.m */; };
+		1C15B26F13118763006FA16B /* ColloquyDaemon in Copy Executables */ = {isa = PBXBuildFile; fileRef = 8DD76FA10486AA7600D96B5E /* ColloquyDaemon */; };
+		1C15B2751311B621006FA16B /* CQJavaScriptBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C15B2741311B621006FA16B /* CQJavaScriptBridge.m */; };
+		1C1EF100133F4D7D006FABCF /* CQDaemonConnectionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C1EF0FF133F4D7D006FABCF /* CQDaemonConnectionController.m */; };
+		1C1EF103133F516D006FABCF /* CQDaemonConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C1EF102133F516D006FABCF /* CQDaemonConnection.m */; };
+		1C1EF106133F54CC006FABCF /* CQLocalDaemonConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C1EF105133F54CB006FABCF /* CQLocalDaemonConnection.m */; };
+		1C1EF109133F5562006FABCF /* CQDaemonClientConnectionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C1EF108133F5562006FABCF /* CQDaemonClientConnectionController.m */; };
+		1C1EF10C133F5587006FABCF /* CQDaemonClientConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C1EF10B133F5587006FABCF /* CQDaemonClientConnection.m */; };
+		1C1EF111133FF51C006FABCF /* CQDaemonLocalClientConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C1EF110133FF51A006FABCF /* CQDaemonLocalClientConnection.m */; };
+		1C8230CF13A5DB86009B8FB6 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C15B26C13118415006FA16B /* Security.framework */; };
+		1C8230D013A5DCE6009B8FB6 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C15B26113117F6D006FA16B /* IOKit.framework */; };
+		1CC42CC713A5EBEF00D6A4F0 /* MVFileTransfer.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E8013100B360088C737 /* MVFileTransfer.m */; };
+		1CC42CC813A5EBFA00D6A4F0 /* MVDirectClientConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E7E13100B360088C737 /* MVDirectClientConnection.m */; };
+		1CC42CC913A5EBFE00D6A4F0 /* MVDirectChatConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E7B13100B360088C737 /* MVDirectChatConnection.m */; };
+		1CC42CCA13A5EC0200D6A4F0 /* MVChatUserWatchRule.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E7913100B360088C737 /* MVChatUserWatchRule.m */; };
+		1CC42CCB13A5EC0500D6A4F0 /* MVChatUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E7613100B360088C737 /* MVChatUser.m */; };
+		1CC42CCC13A5EC0900D6A4F0 /* MVChatRoom.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E7313100B360088C737 /* MVChatRoom.m */; };
+		1CC42CCD13A5EC0D00D6A4F0 /* MVChatConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E7013100B360088C737 /* MVChatConnection.m */; };
+		1CC42CCE13A5EC1E00D6A4F0 /* AsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E8C13100B360088C737 /* AsyncSocket.m */; };
+		1CC42CD013A5EC2E00D6A4F0 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E9013100B360088C737 /* RegexKitLite.m */; };
+		1CC42CD113A5EC3800D6A4F0 /* MVIRCFileTransfer.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E8913100B360088C737 /* MVIRCFileTransfer.m */; };
+		1CC42CD213A5EC3C00D6A4F0 /* MVIRCChatUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E8713100B360088C737 /* MVIRCChatUser.m */; };
+		1CC42CD313A5EC3F00D6A4F0 /* MVIRCChatRoom.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E8513100B360088C737 /* MVIRCChatRoom.m */; };
+		1CC42CD413A5EC4300D6A4F0 /* MVIRCChatConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E8313100B360088C737 /* MVIRCChatConnection.m */; };
+		1CC42CD713A5EC7A00D6A4F0 /* Chat Core.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CC42CC313A5EB9200D6A4F0 /* Chat Core.a */; };
+		1CC42CF413A67EE900D6A4F0 /* NSCharacterSetAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CCB9C49130A770A009F679C /* NSCharacterSetAdditions.m */; };
+		1CC42CF513A67EE900D6A4F0 /* NSDataAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CCB9C4B130A770A009F679C /* NSDataAdditions.m */; };
+		1CC42CF613A67EE900D6A4F0 /* NSDictionaryAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CCB9C4D130A770A009F679C /* NSDictionaryAdditions.m */; };
+		1CC42CF713A67EE900D6A4F0 /* NSMethodSignatureAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CCADE7C1311FB9B00872A80 /* NSMethodSignatureAdditions.m */; };
+		1CC42CF813A67EE900D6A4F0 /* NSNotificationAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CCB9C4F130A770A009F679C /* NSNotificationAdditions.m */; };
+		1CC42CF913A67EE900D6A4F0 /* NSObjectAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CCB9C51130A770A009F679C /* NSObjectAdditions.m */; };
+		1CC42CFA13A67EE900D6A4F0 /* NSScannerAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CCB9C53130A770A009F679C /* NSScannerAdditions.m */; };
+		1CC42CFB13A67EE900D6A4F0 /* NSStringAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CCB9C55130A770A009F679C /* NSStringAdditions.m */; };
+		1CC42D0013A67F5D00D6A4F0 /* Additions.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CC42CF013A67EDA00D6A4F0 /* Additions.a */; };
+		1CC42D0113A67F6600D6A4F0 /* Additions.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CC42CF013A67EDA00D6A4F0 /* Additions.a */; };
+		1CC42D1A13A6811900D6A4F0 /* InterThreadMessaging.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C716E8E13100B360088C737 /* InterThreadMessaging.m */; };
+		1CC42D1B13A6814B00D6A4F0 /* MVChatConnectionAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C1A91741356C2A3004FC76B /* MVChatConnectionAdditions.m */; };
+		1CC42D1C13A6815B00D6A4F0 /* CQKeychain.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C15B269131183FC006FA16B /* CQKeychain.m */; };
+		1CCB9DAC130A7D1B009F679C /* CoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CCB9DAB130A7D1B009F679C /* CoreServices.framework */; };
+		1CCF503D1336A2D0004294C9 /* CQColloquyDaemon.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CCF503C1336A2D0004294C9 /* CQColloquyDaemon.m */; };
+		1CD4B77B1352169E0086EDE8 /* CQDaemonChatConnectionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD4B77A1352169E0086EDE8 /* CQDaemonChatConnectionController.m */; };
+		3BCB285A142A76E5003495CC /* Help.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3BCB2859142A76E5003495CC /* Help.xib */; };
+		8DD76F9A0486AA7600D96B5E /* ColloquyDaemon.m in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* ColloquyDaemon.m */; settings = {ATTRIBUTES = (); }; };
+		8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08FB779EFE84155DC02AAC07 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1C15B1DC1310D01E006FA16B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 08FB7793FE84155DC02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8DD76F960486AA7600D96B5E;
+			remoteInfo = "Colloquy Daemon";
+		};
+		1CC42CD513A5EC5B00D6A4F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 08FB7793FE84155DC02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1CC42CC213A5EB9200D6A4F0;
+			remoteInfo = "Chat Core";
+		};
+		1CC42CFC13A67F4900D6A4F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 08FB7793FE84155DC02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1CC42CEF13A67EDA00D6A4F0;
+			remoteInfo = Additions;
+		};
+		1CC42CFE13A67F5100D6A4F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 08FB7793FE84155DC02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1CC42CEF13A67EDA00D6A4F0;
+			remoteInfo = Additions;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		1C15B26E13118744006FA16B /* Copy Executables */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 6;
+			files = (
+				1C15B26F13118763006FA16B /* ColloquyDaemon in Copy Executables */,
+			);
+			name = "Copy Executables";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DD76F9E0486AA7600D96B5E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 8;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		08FB7796FE84155DC02AAC07 /* ColloquyDaemon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColloquyDaemon.m; sourceTree = "<group>"; };
+		08FB779EFE84155DC02AAC07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		1C0621F51348E575001D3201 /* CQDaemonClientConnectionPrivate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CQDaemonClientConnectionPrivate.h; sourceTree = "<group>"; };
+		1C06220E1348EDA0001D3201 /* CQDaemonConnectionPrivate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CQDaemonConnectionPrivate.h; sourceTree = "<group>"; };
+		1C06222713492B29001D3201 /* ColloquyDaemon.sb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ColloquyDaemon.sb; sourceTree = "<group>"; };
+		1C15B1B71310CD46006FA16B /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		1C15B1BE1310CFF5006FA16B /* Colloquy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Colloquy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1C15B1C31310CFF5006FA16B /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		1C15B1E71310DF7E006FA16B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C15B1E91310DF8B006FA16B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		1C15B1F41310EA70006FA16B /* CQColloquyApplication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQColloquyApplication.h; sourceTree = "<group>"; };
+		1C15B1F51310EA70006FA16B /* CQColloquyApplication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CQColloquyApplication.m; sourceTree = "<group>"; };
+		1C15B1F71310EA92006FA16B /* ColloquyApplication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColloquyApplication.m; sourceTree = "<group>"; };
+		1C15B25E13117BF4006FA16B /* CQAnalyticsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CQAnalyticsController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		1C15B25F13117BF4006FA16B /* CQAnalyticsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQAnalyticsController.h; sourceTree = "<group>"; };
+		1C15B26113117F6D006FA16B /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		1C15B269131183FC006FA16B /* CQKeychain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CQKeychain.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		1C15B26A131183FC006FA16B /* CQKeychain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQKeychain.h; sourceTree = "<group>"; };
+		1C15B26C13118415006FA16B /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		1C15B2731311B621006FA16B /* CQJavaScriptBridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQJavaScriptBridge.h; sourceTree = "<group>"; };
+		1C15B2741311B621006FA16B /* CQJavaScriptBridge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CQJavaScriptBridge.m; sourceTree = "<group>"; };
+		1C1A91731356C2A3004FC76B /* MVChatConnectionAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVChatConnectionAdditions.h; sourceTree = "<group>"; };
+		1C1A91741356C2A3004FC76B /* MVChatConnectionAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVChatConnectionAdditions.m; sourceTree = "<group>"; };
+		1C1EF0FE133F4D7D006FABCF /* CQDaemonConnectionController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQDaemonConnectionController.h; sourceTree = "<group>"; };
+		1C1EF0FF133F4D7D006FABCF /* CQDaemonConnectionController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CQDaemonConnectionController.m; sourceTree = "<group>"; };
+		1C1EF101133F516D006FABCF /* CQDaemonConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQDaemonConnection.h; sourceTree = "<group>"; };
+		1C1EF102133F516D006FABCF /* CQDaemonConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CQDaemonConnection.m; sourceTree = "<group>"; };
+		1C1EF104133F54CB006FABCF /* CQLocalDaemonConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQLocalDaemonConnection.h; sourceTree = "<group>"; };
+		1C1EF105133F54CB006FABCF /* CQLocalDaemonConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CQLocalDaemonConnection.m; sourceTree = "<group>"; };
+		1C1EF107133F5562006FABCF /* CQDaemonClientConnectionController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQDaemonClientConnectionController.h; sourceTree = "<group>"; };
+		1C1EF108133F5562006FABCF /* CQDaemonClientConnectionController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CQDaemonClientConnectionController.m; sourceTree = "<group>"; };
+		1C1EF10A133F5586006FABCF /* CQDaemonClientConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQDaemonClientConnection.h; sourceTree = "<group>"; };
+		1C1EF10B133F5587006FABCF /* CQDaemonClientConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CQDaemonClientConnection.m; sourceTree = "<group>"; };
+		1C1EF10D133FAE70006FABCF /* CQDaemonLocalClientConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQDaemonLocalClientConnection.h; sourceTree = "<group>"; };
+		1C1EF110133FF51A006FABCF /* CQDaemonLocalClientConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CQDaemonLocalClientConnection.m; sourceTree = "<group>"; };
+		1C61A55213106225009DF5DF /* Base.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Base.xcconfig; sourceTree = "<group>"; };
+		1C61A5A113106AC7009DF5DF /* IXSCNotificationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = IXSCNotificationManager.h; path = ../Colloquy/Frameworks/PortMapper/framework/IXSCNotificationManager.h; sourceTree = "<group>"; };
+		1C61A5A213106AC7009DF5DF /* IXSCNotificationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = IXSCNotificationManager.m; path = ../Colloquy/Frameworks/PortMapper/framework/IXSCNotificationManager.m; sourceTree = "<group>"; };
+		1C61A5A313106AC7009DF5DF /* NSNotificationCenterThreadingAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSNotificationCenterThreadingAdditions.h; path = ../Colloquy/Frameworks/PortMapper/framework/NSNotificationCenterThreadingAdditions.h; sourceTree = "<group>"; };
+		1C61A5A413106AC7009DF5DF /* NSNotificationCenterThreadingAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; name = NSNotificationCenterThreadingAdditions.m; path = ../Colloquy/Frameworks/PortMapper/framework/NSNotificationCenterThreadingAdditions.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		1C61A5A513106AC7009DF5DF /* TCMNATPMPPortMapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TCMNATPMPPortMapper.h; path = ../Colloquy/Frameworks/PortMapper/framework/TCMNATPMPPortMapper.h; sourceTree = "<group>"; };
+		1C61A5A613106AC7009DF5DF /* TCMNATPMPPortMapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TCMNATPMPPortMapper.m; path = ../Colloquy/Frameworks/PortMapper/framework/TCMNATPMPPortMapper.m; sourceTree = "<group>"; };
+		1C61A5A713106AC7009DF5DF /* TCMPortMapper_prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TCMPortMapper_prefix.pch; path = ../Colloquy/Frameworks/PortMapper/framework/TCMPortMapper_prefix.pch; sourceTree = "<group>"; };
+		1C61A5A813106AC7009DF5DF /* TCMPortMapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TCMPortMapper.h; path = ../Colloquy/Frameworks/PortMapper/framework/TCMPortMapper.h; sourceTree = "<group>"; };
+		1C61A5A913106AC7009DF5DF /* TCMPortMapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TCMPortMapper.m; path = ../Colloquy/Frameworks/PortMapper/framework/TCMPortMapper.m; sourceTree = "<group>"; };
+		1C61A5AA13106AC7009DF5DF /* TCMUPNPPortMapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TCMUPNPPortMapper.h; path = ../Colloquy/Frameworks/PortMapper/framework/TCMUPNPPortMapper.h; sourceTree = "<group>"; };
+		1C61A5AB13106AC7009DF5DF /* TCMUPNPPortMapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TCMUPNPPortMapper.m; path = ../Colloquy/Frameworks/PortMapper/framework/TCMUPNPPortMapper.m; sourceTree = "<group>"; };
+		1C61A5AC13106AC7009DF5DF /* declspec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = declspec.h; sourceTree = "<group>"; };
+		1C61A5AD13106AC7009DF5DF /* getgateway.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = getgateway.c; sourceTree = "<group>"; };
+		1C61A5AE13106AC7009DF5DF /* getgateway.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = getgateway.h; sourceTree = "<group>"; };
+		1C61A5AF13106AC7009DF5DF /* natpmp.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = natpmp.c; sourceTree = "<group>"; };
+		1C61A5B013106AC7009DF5DF /* natpmp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = natpmp.h; sourceTree = "<group>"; };
+		1C61A5B113106AC7009DF5DF /* bsdqueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bsdqueue.h; sourceTree = "<group>"; };
+		1C61A5B213106AC7009DF5DF /* codelength.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = codelength.h; sourceTree = "<group>"; };
+		1C61A5B313106AC7009DF5DF /* declspec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = declspec.h; sourceTree = "<group>"; };
+		1C61A5B413106AC7009DF5DF /* igd_desc_parse.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = igd_desc_parse.c; sourceTree = "<group>"; };
+		1C61A5B513106AC7009DF5DF /* igd_desc_parse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = igd_desc_parse.h; sourceTree = "<group>"; };
+		1C61A5B613106AC7009DF5DF /* minisoap.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = minisoap.c; sourceTree = "<group>"; };
+		1C61A5B713106AC7009DF5DF /* minisoap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = minisoap.h; sourceTree = "<group>"; };
+		1C61A5B813106AC7009DF5DF /* minissdpc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = minissdpc.c; sourceTree = "<group>"; };
+		1C61A5B913106AC7009DF5DF /* minissdpc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = minissdpc.h; sourceTree = "<group>"; };
+		1C61A5BA13106AC7009DF5DF /* miniupnpc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = miniupnpc.c; sourceTree = "<group>"; };
+		1C61A5BB13106AC7009DF5DF /* miniupnpc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = miniupnpc.h; sourceTree = "<group>"; };
+		1C61A5BC13106AC7009DF5DF /* miniupnpcstrings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = miniupnpcstrings.h; sourceTree = "<group>"; };
+		1C61A5BD13106AC7009DF5DF /* miniwget.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = miniwget.c; sourceTree = "<group>"; };
+		1C61A5BE13106AC7009DF5DF /* miniwget.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = miniwget.h; sourceTree = "<group>"; };
+		1C61A5BF13106AC7009DF5DF /* minixml.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = minixml.c; sourceTree = "<group>"; };
+		1C61A5C013106AC7009DF5DF /* minixml.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = minixml.h; sourceTree = "<group>"; };
+		1C61A5C113106AC7009DF5DF /* upnpcommands.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = upnpcommands.c; sourceTree = "<group>"; };
+		1C61A5C213106AC7009DF5DF /* upnpcommands.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = upnpcommands.h; sourceTree = "<group>"; };
+		1C61A5C313106AC7009DF5DF /* upnperrors.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = upnperrors.c; sourceTree = "<group>"; };
+		1C61A5C413106AC7009DF5DF /* upnperrors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = upnperrors.h; sourceTree = "<group>"; };
+		1C61A5C513106AC7009DF5DF /* upnpreplyparse.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = upnpreplyparse.c; sourceTree = "<group>"; };
+		1C61A5C613106AC7009DF5DF /* upnpreplyparse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = upnpreplyparse.h; sourceTree = "<group>"; };
+		1C716E6D13100B360088C737 /* ChatCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatCore.h; sourceTree = "<group>"; };
+		1C716E6E13100B360088C737 /* MVAvailability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVAvailability.h; sourceTree = "<group>"; };
+		1C716E6F13100B360088C737 /* MVChatString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVChatString.h; sourceTree = "<group>"; };
+		1C716E7013100B360088C737 /* MVChatConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MVChatConnection.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		1C716E7113100B360088C737 /* MVChatConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVChatConnection.h; sourceTree = "<group>"; };
+		1C716E7213100B360088C737 /* MVChatConnectionPrivate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVChatConnectionPrivate.h; sourceTree = "<group>"; };
+		1C716E7313100B360088C737 /* MVChatRoom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVChatRoom.m; sourceTree = "<group>"; };
+		1C716E7413100B360088C737 /* MVChatRoom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVChatRoom.h; sourceTree = "<group>"; };
+		1C716E7513100B360088C737 /* MVChatRoomPrivate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVChatRoomPrivate.h; sourceTree = "<group>"; };
+		1C716E7613100B360088C737 /* MVChatUser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVChatUser.m; sourceTree = "<group>"; };
+		1C716E7713100B360088C737 /* MVChatUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVChatUser.h; sourceTree = "<group>"; };
+		1C716E7813100B360088C737 /* MVChatUserPrivate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVChatUserPrivate.h; sourceTree = "<group>"; };
+		1C716E7913100B360088C737 /* MVChatUserWatchRule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVChatUserWatchRule.m; sourceTree = "<group>"; };
+		1C716E7A13100B360088C737 /* MVChatUserWatchRule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVChatUserWatchRule.h; sourceTree = "<group>"; };
+		1C716E7B13100B360088C737 /* MVDirectChatConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVDirectChatConnection.m; sourceTree = "<group>"; };
+		1C716E7C13100B360088C737 /* MVDirectChatConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVDirectChatConnection.h; sourceTree = "<group>"; };
+		1C716E7D13100B360088C737 /* MVDirectChatConnectionPrivate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVDirectChatConnectionPrivate.h; sourceTree = "<group>"; };
+		1C716E7E13100B360088C737 /* MVDirectClientConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVDirectClientConnection.m; sourceTree = "<group>"; };
+		1C716E7F13100B360088C737 /* MVDirectClientConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVDirectClientConnection.h; sourceTree = "<group>"; };
+		1C716E8013100B360088C737 /* MVFileTransfer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVFileTransfer.m; sourceTree = "<group>"; };
+		1C716E8113100B360088C737 /* MVFileTransfer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVFileTransfer.h; sourceTree = "<group>"; };
+		1C716E8213100B360088C737 /* MVFileTransferPrivate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVFileTransferPrivate.h; sourceTree = "<group>"; };
+		1C716E8313100B360088C737 /* MVIRCChatConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVIRCChatConnection.m; sourceTree = "<group>"; };
+		1C716E8413100B360088C737 /* MVIRCChatConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVIRCChatConnection.h; sourceTree = "<group>"; };
+		1C716E8513100B360088C737 /* MVIRCChatRoom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVIRCChatRoom.m; sourceTree = "<group>"; };
+		1C716E8613100B360088C737 /* MVIRCChatRoom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVIRCChatRoom.h; sourceTree = "<group>"; };
+		1C716E8713100B360088C737 /* MVIRCChatUser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVIRCChatUser.m; sourceTree = "<group>"; };
+		1C716E8813100B360088C737 /* MVIRCChatUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVIRCChatUser.h; sourceTree = "<group>"; };
+		1C716E8913100B360088C737 /* MVIRCFileTransfer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MVIRCFileTransfer.m; sourceTree = "<group>"; };
+		1C716E8A13100B360088C737 /* MVIRCFileTransfer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVIRCFileTransfer.h; sourceTree = "<group>"; };
+		1C716E8B13100B360088C737 /* MVIRCNumerics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MVIRCNumerics.h; sourceTree = "<group>"; };
+		1C716E8C13100B360088C737 /* AsyncSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AsyncSocket.m; sourceTree = "<group>"; };
+		1C716E8D13100B360088C737 /* AsyncSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AsyncSocket.h; sourceTree = "<group>"; };
+		1C716E8E13100B360088C737 /* InterThreadMessaging.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InterThreadMessaging.m; sourceTree = "<group>"; };
+		1C716E8F13100B360088C737 /* InterThreadMessaging.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InterThreadMessaging.h; sourceTree = "<group>"; };
+		1C716E9013100B360088C737 /* RegexKitLite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegexKitLite.m; sourceTree = "<group>"; };
+		1C716E9113100B360088C737 /* RegexKitLite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegexKitLite.h; sourceTree = "<group>"; };
+		1C716EFF1310290D0088C737 /* Colloquy.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Colloquy.pch; path = Mac/Colloquy.pch; sourceTree = "<group>"; };
+		1CC1CA3313479F1300964CFD /* CQColloquyClientProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CQColloquyClientProtocol.h; sourceTree = "<group>"; };
+		1CC1CA3413479F1300964CFD /* CQColloquyDaemonProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CQColloquyDaemonProtocol.h; sourceTree = "<group>"; };
+		1CC42CC313A5EB9200D6A4F0 /* Chat Core.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "Chat Core.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1CC42CF013A67EDA00D6A4F0 /* Additions.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = Additions.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		1CCADE7B1311FB9B00872A80 /* NSMethodSignatureAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSMethodSignatureAdditions.h; path = Additions/NSMethodSignatureAdditions.h; sourceTree = "<group>"; };
+		1CCADE7C1311FB9B00872A80 /* NSMethodSignatureAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NSMethodSignatureAdditions.m; path = Additions/NSMethodSignatureAdditions.m; sourceTree = "<group>"; };
+		1CCB9C49130A770A009F679C /* NSCharacterSetAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NSCharacterSetAdditions.m; path = Additions/NSCharacterSetAdditions.m; sourceTree = "<group>"; };
+		1CCB9C4A130A770A009F679C /* NSCharacterSetAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSCharacterSetAdditions.h; path = Additions/NSCharacterSetAdditions.h; sourceTree = "<group>"; };
+		1CCB9C4B130A770A009F679C /* NSDataAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NSDataAdditions.m; path = Additions/NSDataAdditions.m; sourceTree = "<group>"; };
+		1CCB9C4C130A770A009F679C /* NSDataAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSDataAdditions.h; path = Additions/NSDataAdditions.h; sourceTree = "<group>"; };
+		1CCB9C4D130A770A009F679C /* NSDictionaryAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NSDictionaryAdditions.m; path = Additions/NSDictionaryAdditions.m; sourceTree = "<group>"; };
+		1CCB9C4E130A770A009F679C /* NSDictionaryAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSDictionaryAdditions.h; path = Additions/NSDictionaryAdditions.h; sourceTree = "<group>"; };
+		1CCB9C4F130A770A009F679C /* NSNotificationAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NSNotificationAdditions.m; path = Additions/NSNotificationAdditions.m; sourceTree = "<group>"; };
+		1CCB9C50130A770A009F679C /* NSNotificationAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSNotificationAdditions.h; path = Additions/NSNotificationAdditions.h; sourceTree = "<group>"; };
+		1CCB9C51130A770A009F679C /* NSObjectAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NSObjectAdditions.m; path = Additions/NSObjectAdditions.m; sourceTree = "<group>"; };
+		1CCB9C52130A770A009F679C /* NSObjectAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSObjectAdditions.h; path = Additions/NSObjectAdditions.h; sourceTree = "<group>"; };
+		1CCB9C53130A770A009F679C /* NSScannerAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NSScannerAdditions.m; path = Additions/NSScannerAdditions.m; sourceTree = "<group>"; };
+		1CCB9C54130A770A009F679C /* NSScannerAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSScannerAdditions.h; path = Additions/NSScannerAdditions.h; sourceTree = "<group>"; };
+		1CCB9C55130A770A009F679C /* NSStringAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NSStringAdditions.m; path = Additions/NSStringAdditions.m; sourceTree = "<group>"; };
+		1CCB9C56130A770A009F679C /* NSStringAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSStringAdditions.h; path = Additions/NSStringAdditions.h; sourceTree = "<group>"; };
+		1CCB9C57130A770A009F679C /* MVUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MVUtilities.h; path = Additions/MVUtilities.h; sourceTree = "<group>"; };
+		1CCB9DAB130A7D1B009F679C /* CoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreServices.framework; path = /System/Library/Frameworks/CoreServices.framework; sourceTree = "<absolute>"; };
+		1CCB9DAF130A7E29009F679C /* libicucore.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicucore.dylib; path = usr/lib/libicucore.dylib; sourceTree = SDKROOT; };
+		1CCB9DC2130A7E6E009F679C /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		1CCF503B1336A2D0004294C9 /* CQColloquyDaemon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQColloquyDaemon.h; sourceTree = "<group>"; };
+		1CCF503C1336A2D0004294C9 /* CQColloquyDaemon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CQColloquyDaemon.m; sourceTree = "<group>"; };
+		1CD4B7791352169E0086EDE8 /* CQDaemonChatConnectionController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQDaemonChatConnectionController.h; sourceTree = "<group>"; };
+		1CD4B77A1352169E0086EDE8 /* CQDaemonChatConnectionController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CQDaemonChatConnectionController.m; sourceTree = "<group>"; };
+		3BCB2859142A76E5003495CC /* Help.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Help.xib; sourceTree = "<group>"; };
+		8DD76FA10486AA7600D96B5E /* ColloquyDaemon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ColloquyDaemon; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1C15B1BB1310CFF5006FA16B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CC42D0013A67F5D00D6A4F0 /* Additions.a in Frameworks */,
+				1C15B1DE1310D02A006FA16B /* JavaScriptCore.framework in Frameworks */,
+				1C15B1F91310EB91006FA16B /* AppKit.framework in Frameworks */,
+				1C8230D013A5DCE6009B8FB6 /* IOKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1CC42CC013A5EB9200D6A4F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CC42D0113A67F6600D6A4F0 /* Additions.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1CC42CED13A67EDA00D6A4F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DD76F9B0486AA7600D96B5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CC42CD713A5EC7A00D6A4F0 /* Chat Core.a in Frameworks */,
+				1C15B1B81310CD46006FA16B /* JavaScriptCore.framework in Frameworks */,
+				8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */,
+				1CCB9DAC130A7D1B009F679C /* CoreServices.framework in Frameworks */,
+				1C15B1B91310CFB5006FA16B /* SystemConfiguration.framework in Frameworks */,
+				1C15B1FB1310EC4C006FA16B /* libicucore.dylib in Frameworks */,
+				1C8230CF13A5DB86009B8FB6 /* Security.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* Colloquy */ = {
+			isa = PBXGroup;
+			children = (
+				1C716EFF1310290D0088C737 /* Colloquy.pch */,
+				1C716E6A13100B360088C737 /* Chat Core */,
+				1C716EA813100C9A0088C737 /* Shared */,
+				1C15B2701311B5F3006FA16B /* Shared (Mac) */,
+				1C716EA913100CB80088C737 /* Daemon */,
+				1C716EAA13100D1D0088C737 /* Application */,
+				08FB7795FE84155DC02AAC07 /* Other Sources & Additions */,
+				1CCB9BEB130A72D4009F679C /* Settings */,
+				08FB779DFE84155DC02AAC07 /* Frameworks */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
+			);
+			name = Colloquy;
+			sourceTree = "<group>";
+			usesTabs = 1;
+		};
+		08FB7795FE84155DC02AAC07 /* Other Sources & Additions */ = {
+			isa = PBXGroup;
+			children = (
+				1CCB9C49130A770A009F679C /* NSCharacterSetAdditions.m */,
+				1CCB9C4A130A770A009F679C /* NSCharacterSetAdditions.h */,
+				1CCB9C4B130A770A009F679C /* NSDataAdditions.m */,
+				1CCB9C4C130A770A009F679C /* NSDataAdditions.h */,
+				1CCB9C4D130A770A009F679C /* NSDictionaryAdditions.m */,
+				1CCB9C4E130A770A009F679C /* NSDictionaryAdditions.h */,
+				1CCADE7C1311FB9B00872A80 /* NSMethodSignatureAdditions.m */,
+				1CCADE7B1311FB9B00872A80 /* NSMethodSignatureAdditions.h */,
+				1CCB9C4F130A770A009F679C /* NSNotificationAdditions.m */,
+				1CCB9C50130A770A009F679C /* NSNotificationAdditions.h */,
+				1CCB9C51130A770A009F679C /* NSObjectAdditions.m */,
+				1CCB9C52130A770A009F679C /* NSObjectAdditions.h */,
+				1CCB9C53130A770A009F679C /* NSScannerAdditions.m */,
+				1CCB9C54130A770A009F679C /* NSScannerAdditions.h */,
+				1CCB9C55130A770A009F679C /* NSStringAdditions.m */,
+				1CCB9C56130A770A009F679C /* NSStringAdditions.h */,
+				1CCB9C57130A770A009F679C /* MVUtilities.h */,
+			);
+			name = "Other Sources & Additions";
+			sourceTree = "<group>";
+		};
+		08FB779DFE84155DC02AAC07 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1C15B1C31310CFF5006FA16B /* AppKit.framework */,
+				1CCB9DAB130A7D1B009F679C /* CoreServices.framework */,
+				08FB779EFE84155DC02AAC07 /* Foundation.framework */,
+				1C15B26113117F6D006FA16B /* IOKit.framework */,
+				1C15B1B71310CD46006FA16B /* JavaScriptCore.framework */,
+				1CCB9DAF130A7E29009F679C /* libicucore.dylib */,
+				1C15B26C13118415006FA16B /* Security.framework */,
+				1CCB9DC2130A7E6E009F679C /* SystemConfiguration.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1AB674ADFE9D54B511CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8DD76FA10486AA7600D96B5E /* ColloquyDaemon */,
+				1C15B1BE1310CFF5006FA16B /* Colloquy.app */,
+				1CC42CC313A5EB9200D6A4F0 /* Chat Core.a */,
+				1CC42CF013A67EDA00D6A4F0 /* Additions.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1C15B1B61310CD23006FA16B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1C15B1E71310DF7E006FA16B /* Info.plist */,
+				1C15B1E81310DF8B006FA16B /* MainMenu.xib */,
+				1C06222713492B29001D3201 /* ColloquyDaemon.sb */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		1C15B2701311B5F3006FA16B /* Shared (Mac) */ = {
+			isa = PBXGroup;
+			children = (
+				1C15B2711311B5F6006FA16B /* Controllers */,
+				1C15B2721311B5F6006FA16B /* Models */,
+				1CC1CA3213479F1300964CFD /* Protocols */,
+			);
+			name = "Shared (Mac)";
+			path = Mac/Shared;
+			sourceTree = "<group>";
+		};
+		1C15B2711311B5F6006FA16B /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				1C15B2741311B621006FA16B /* CQJavaScriptBridge.m */,
+				1C15B2731311B621006FA16B /* CQJavaScriptBridge.h */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		1C15B2721311B5F6006FA16B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		1C1A91721356C25C004FC76B /* Additions */ = {
+			isa = PBXGroup;
+			children = (
+				1C1A91741356C2A3004FC76B /* MVChatConnectionAdditions.m */,
+				1C1A91731356C2A3004FC76B /* MVChatConnectionAdditions.h */,
+			);
+			path = Additions;
+			sourceTree = "<group>";
+		};
+		1C61A59E13106AC7009DF5DF /* Port Mapping Support */ = {
+			isa = PBXGroup;
+			children = (
+				1C61A59F13106AC7009DF5DF /* libnatpmp */,
+				1C61A5A013106AC7009DF5DF /* miniupnpc */,
+				1C61A5A113106AC7009DF5DF /* IXSCNotificationManager.h */,
+				1C61A5A213106AC7009DF5DF /* IXSCNotificationManager.m */,
+				1C61A5A313106AC7009DF5DF /* NSNotificationCenterThreadingAdditions.h */,
+				1C61A5A413106AC7009DF5DF /* NSNotificationCenterThreadingAdditions.m */,
+				1C61A5A513106AC7009DF5DF /* TCMNATPMPPortMapper.h */,
+				1C61A5A613106AC7009DF5DF /* TCMNATPMPPortMapper.m */,
+				1C61A5A713106AC7009DF5DF /* TCMPortMapper_prefix.pch */,
+				1C61A5A813106AC7009DF5DF /* TCMPortMapper.h */,
+				1C61A5A913106AC7009DF5DF /* TCMPortMapper.m */,
+				1C61A5AA13106AC7009DF5DF /* TCMUPNPPortMapper.h */,
+				1C61A5AB13106AC7009DF5DF /* TCMUPNPPortMapper.m */,
+			);
+			name = "Port Mapping Support";
+			path = "../../Colloquy Bouncer";
+			sourceTree = "<group>";
+		};
+		1C61A59F13106AC7009DF5DF /* libnatpmp */ = {
+			isa = PBXGroup;
+			children = (
+				1C61A5AC13106AC7009DF5DF /* declspec.h */,
+				1C61A5AD13106AC7009DF5DF /* getgateway.c */,
+				1C61A5AE13106AC7009DF5DF /* getgateway.h */,
+				1C61A5AF13106AC7009DF5DF /* natpmp.c */,
+				1C61A5B013106AC7009DF5DF /* natpmp.h */,
+			);
+			name = libnatpmp;
+			path = ../Colloquy/Frameworks/PortMapper/framework/libnatpmp;
+			sourceTree = "<group>";
+		};
+		1C61A5A013106AC7009DF5DF /* miniupnpc */ = {
+			isa = PBXGroup;
+			children = (
+				1C61A5B113106AC7009DF5DF /* bsdqueue.h */,
+				1C61A5B213106AC7009DF5DF /* codelength.h */,
+				1C61A5B313106AC7009DF5DF /* declspec.h */,
+				1C61A5B413106AC7009DF5DF /* igd_desc_parse.c */,
+				1C61A5B513106AC7009DF5DF /* igd_desc_parse.h */,
+				1C61A5B613106AC7009DF5DF /* minisoap.c */,
+				1C61A5B713106AC7009DF5DF /* minisoap.h */,
+				1C61A5B813106AC7009DF5DF /* minissdpc.c */,
+				1C61A5B913106AC7009DF5DF /* minissdpc.h */,
+				1C61A5BA13106AC7009DF5DF /* miniupnpc.c */,
+				1C61A5BB13106AC7009DF5DF /* miniupnpc.h */,
+				1C61A5BC13106AC7009DF5DF /* miniupnpcstrings.h */,
+				1C61A5BD13106AC7009DF5DF /* miniwget.c */,
+				1C61A5BE13106AC7009DF5DF /* miniwget.h */,
+				1C61A5BF13106AC7009DF5DF /* minixml.c */,
+				1C61A5C013106AC7009DF5DF /* minixml.h */,
+				1C61A5C113106AC7009DF5DF /* upnpcommands.c */,
+				1C61A5C213106AC7009DF5DF /* upnpcommands.h */,
+				1C61A5C313106AC7009DF5DF /* upnperrors.c */,
+				1C61A5C413106AC7009DF5DF /* upnperrors.h */,
+				1C61A5C513106AC7009DF5DF /* upnpreplyparse.c */,
+				1C61A5C613106AC7009DF5DF /* upnpreplyparse.h */,
+			);
+			name = miniupnpc;
+			path = ../Colloquy/Frameworks/PortMapper/framework/miniupnpc;
+			sourceTree = "<group>";
+		};
+		1C716E6A13100B360088C737 /* Chat Core */ = {
+			isa = PBXGroup;
+			children = (
+				1C716E6B13100B360088C737 /* IRC Support */,
+				1C716E6C13100B360088C737 /* Utility Classes */,
+				1C61A59E13106AC7009DF5DF /* Port Mapping Support */,
+				1C716E6D13100B360088C737 /* ChatCore.h */,
+				1C716E6E13100B360088C737 /* MVAvailability.h */,
+				1C716E6F13100B360088C737 /* MVChatString.h */,
+				1C716E7013100B360088C737 /* MVChatConnection.m */,
+				1C716E7113100B360088C737 /* MVChatConnection.h */,
+				1C716E7213100B360088C737 /* MVChatConnectionPrivate.h */,
+				1C716E7313100B360088C737 /* MVChatRoom.m */,
+				1C716E7413100B360088C737 /* MVChatRoom.h */,
+				1C716E7513100B360088C737 /* MVChatRoomPrivate.h */,
+				1C716E7613100B360088C737 /* MVChatUser.m */,
+				1C716E7713100B360088C737 /* MVChatUser.h */,
+				1C716E7813100B360088C737 /* MVChatUserPrivate.h */,
+				1C716E7913100B360088C737 /* MVChatUserWatchRule.m */,
+				1C716E7A13100B360088C737 /* MVChatUserWatchRule.h */,
+				1C716E7B13100B360088C737 /* MVDirectChatConnection.m */,
+				1C716E7C13100B360088C737 /* MVDirectChatConnection.h */,
+				1C716E7D13100B360088C737 /* MVDirectChatConnectionPrivate.h */,
+				1C716E7E13100B360088C737 /* MVDirectClientConnection.m */,
+				1C716E7F13100B360088C737 /* MVDirectClientConnection.h */,
+				1C716E8013100B360088C737 /* MVFileTransfer.m */,
+				1C716E8113100B360088C737 /* MVFileTransfer.h */,
+				1C716E8213100B360088C737 /* MVFileTransferPrivate.h */,
+			);
+			path = "Chat Core";
+			sourceTree = "<group>";
+		};
+		1C716E6B13100B360088C737 /* IRC Support */ = {
+			isa = PBXGroup;
+			children = (
+				1C716E8313100B360088C737 /* MVIRCChatConnection.m */,
+				1C716E8413100B360088C737 /* MVIRCChatConnection.h */,
+				1C716E8513100B360088C737 /* MVIRCChatRoom.m */,
+				1C716E8613100B360088C737 /* MVIRCChatRoom.h */,
+				1C716E8713100B360088C737 /* MVIRCChatUser.m */,
+				1C716E8813100B360088C737 /* MVIRCChatUser.h */,
+				1C716E8913100B360088C737 /* MVIRCFileTransfer.m */,
+				1C716E8A13100B360088C737 /* MVIRCFileTransfer.h */,
+				1C716E8B13100B360088C737 /* MVIRCNumerics.h */,
+			);
+			name = "IRC Support";
+			sourceTree = "<group>";
+		};
+		1C716E6C13100B360088C737 /* Utility Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1C716E8C13100B360088C737 /* AsyncSocket.m */,
+				1C716E8D13100B360088C737 /* AsyncSocket.h */,
+				1C716E8E13100B360088C737 /* InterThreadMessaging.m */,
+				1C716E8F13100B360088C737 /* InterThreadMessaging.h */,
+				1C716E9013100B360088C737 /* RegexKitLite.m */,
+				1C716E9113100B360088C737 /* RegexKitLite.h */,
+			);
+			name = "Utility Classes";
+			sourceTree = "<group>";
+		};
+		1C716EA813100C9A0088C737 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				1C1A91721356C25C004FC76B /* Additions */,
+				1C716EB013100D7E0088C737 /* Controllers */,
+				1C716EB113100D8A0088C737 /* Models */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		1C716EA913100CB80088C737 /* Daemon */ = {
+			isa = PBXGroup;
+			children = (
+				08FB7796FE84155DC02AAC07 /* ColloquyDaemon.m */,
+				1C716EAE13100D610088C737 /* Controllers */,
+				1C716EAF13100D690088C737 /* Models */,
+			);
+			name = Daemon;
+			path = Mac/Daemon;
+			sourceTree = "<group>";
+		};
+		1C716EAA13100D1D0088C737 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				1C15B1F71310EA92006FA16B /* ColloquyApplication.m */,
+				1C716EAB13100D3B0088C737 /* Controllers */,
+				1C716EAC13100D460088C737 /* Models */,
+				1C15B1B61310CD23006FA16B /* Resources */,
+				1C716EAD13100D520088C737 /* Views */,
+			);
+			name = Application;
+			path = Mac/Application;
+			sourceTree = "<group>";
+		};
+		1C716EAB13100D3B0088C737 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				1C15B1F51310EA70006FA16B /* CQColloquyApplication.m */,
+				1C15B1F41310EA70006FA16B /* CQColloquyApplication.h */,
+				1C1EF0FF133F4D7D006FABCF /* CQDaemonConnectionController.m */,
+				1C1EF0FE133F4D7D006FABCF /* CQDaemonConnectionController.h */,
+				1C1EF102133F516D006FABCF /* CQDaemonConnection.m */,
+				1C1EF101133F516D006FABCF /* CQDaemonConnection.h */,
+				1C06220E1348EDA0001D3201 /* CQDaemonConnectionPrivate.h */,
+				1C1EF105133F54CB006FABCF /* CQLocalDaemonConnection.m */,
+				1C1EF104133F54CB006FABCF /* CQLocalDaemonConnection.h */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		1C716EAC13100D460088C737 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		1C716EAD13100D520088C737 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3BCB2859142A76E5003495CC /* Help.xib */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		1C716EAE13100D610088C737 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				1CCF503C1336A2D0004294C9 /* CQColloquyDaemon.m */,
+				1CCF503B1336A2D0004294C9 /* CQColloquyDaemon.h */,
+				1C1EF108133F5562006FABCF /* CQDaemonClientConnectionController.m */,
+				1C1EF107133F5562006FABCF /* CQDaemonClientConnectionController.h */,
+				1C1EF10B133F5587006FABCF /* CQDaemonClientConnection.m */,
+				1C1EF10A133F5586006FABCF /* CQDaemonClientConnection.h */,
+				1C0621F51348E575001D3201 /* CQDaemonClientConnectionPrivate.h */,
+				1C1EF110133FF51A006FABCF /* CQDaemonLocalClientConnection.m */,
+				1C1EF10D133FAE70006FABCF /* CQDaemonLocalClientConnection.h */,
+				1CD4B77A1352169E0086EDE8 /* CQDaemonChatConnectionController.m */,
+				1CD4B7791352169E0086EDE8 /* CQDaemonChatConnectionController.h */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		1C716EAF13100D690088C737 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		1C716EB013100D7E0088C737 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				1C15B25E13117BF4006FA16B /* CQAnalyticsController.m */,
+				1C15B25F13117BF4006FA16B /* CQAnalyticsController.h */,
+				1C15B269131183FC006FA16B /* CQKeychain.m */,
+				1C15B26A131183FC006FA16B /* CQKeychain.h */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		1C716EB113100D8A0088C737 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		1CC1CA3213479F1300964CFD /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				1CC1CA3413479F1300964CFD /* CQColloquyDaemonProtocol.h */,
+				1CC1CA3313479F1300964CFD /* CQColloquyClientProtocol.h */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		1CCB9BEB130A72D4009F679C /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				1C61A55213106225009DF5DF /* Base.xcconfig */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		1CC42CC113A5EB9200D6A4F0 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1CC42CEE13A67EDA00D6A4F0 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		1C15B1BD1310CFF5006FA16B /* Colloquy */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1C15B1D81310CFF6006FA16B /* Build configuration list for PBXNativeTarget "Colloquy" */;
+			buildPhases = (
+				1C15B1BA1310CFF5006FA16B /* Sources */,
+				1C15B1BB1310CFF5006FA16B /* Frameworks */,
+				1C15B1BC1310CFF5006FA16B /* Resources */,
+				1C15B26E13118744006FA16B /* Copy Executables */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1C15B1DD1310D01E006FA16B /* PBXTargetDependency */,
+				1CC42CFF13A67F5100D6A4F0 /* PBXTargetDependency */,
+			);
+			name = Colloquy;
+			productName = Colloquy;
+			productReference = 1C15B1BE1310CFF5006FA16B /* Colloquy.app */;
+			productType = "com.apple.product-type.application";
+		};
+		1CC42CC213A5EB9200D6A4F0 /* Chat Core */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1CC42CC413A5EB9200D6A4F0 /* Build configuration list for PBXNativeTarget "Chat Core" */;
+			buildPhases = (
+				1CC42CBF13A5EB9200D6A4F0 /* Sources */,
+				1CC42CC013A5EB9200D6A4F0 /* Frameworks */,
+				1CC42CC113A5EB9200D6A4F0 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1CC42CFD13A67F4900D6A4F0 /* PBXTargetDependency */,
+			);
+			name = "Chat Core";
+			productName = ChatCore;
+			productReference = 1CC42CC313A5EB9200D6A4F0 /* Chat Core.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		1CC42CEF13A67EDA00D6A4F0 /* Additions */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1CC42CF313A67EDA00D6A4F0 /* Build configuration list for PBXNativeTarget "Additions" */;
+			buildPhases = (
+				1CC42CEC13A67EDA00D6A4F0 /* Sources */,
+				1CC42CED13A67EDA00D6A4F0 /* Frameworks */,
+				1CC42CEE13A67EDA00D6A4F0 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Additions;
+			productName = Additions;
+			productReference = 1CC42CF013A67EDA00D6A4F0 /* Additions.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		8DD76F960486AA7600D96B5E /* Colloquy Daemon */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB927408733DD40010E9CD /* Build configuration list for PBXNativeTarget "Colloquy Daemon" */;
+			buildPhases = (
+				8DD76F990486AA7600D96B5E /* Sources */,
+				8DD76F9B0486AA7600D96B5E /* Frameworks */,
+				8DD76F9E0486AA7600D96B5E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1CC42CD613A5EC5B00D6A4F0 /* PBXTargetDependency */,
+			);
+			name = "Colloquy Daemon";
+			productInstallPath = "$(HOME)/bin";
+			productName = Colloquy;
+			productReference = 8DD76FA10486AA7600D96B5E /* ColloquyDaemon */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Colloquy Project";
+			};
+			buildConfigurationList = 1DEB927808733DD40010E9CD /* Build configuration list for PBXProject "Colloquy (Mac)" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 08FB7794FE84155DC02AAC07 /* Colloquy */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1C15B1BD1310CFF5006FA16B /* Colloquy */,
+				8DD76F960486AA7600D96B5E /* Colloquy Daemon */,
+				1CC42CC213A5EB9200D6A4F0 /* Chat Core */,
+				1CC42CEF13A67EDA00D6A4F0 /* Additions */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1C15B1BC1310CFF5006FA16B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1C15B1EA1310DF8B006FA16B /* MainMenu.xib in Resources */,
+				1C062247134A115C001D3201 /* ColloquyDaemon.sb in Resources */,
+				3BCB285A142A76E5003495CC /* Help.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1C15B1BA1310CFF5006FA16B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1C15B1F61310EA70006FA16B /* CQColloquyApplication.m in Sources */,
+				1C15B1F81310EA92006FA16B /* ColloquyApplication.m in Sources */,
+				1C15B26013117BF4006FA16B /* CQAnalyticsController.m in Sources */,
+				1C1EF100133F4D7D006FABCF /* CQDaemonConnectionController.m in Sources */,
+				1C1EF103133F516D006FABCF /* CQDaemonConnection.m in Sources */,
+				1C1EF106133F54CC006FABCF /* CQLocalDaemonConnection.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1CC42CBF13A5EB9200D6A4F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CC42CC713A5EBEF00D6A4F0 /* MVFileTransfer.m in Sources */,
+				1CC42CC813A5EBFA00D6A4F0 /* MVDirectClientConnection.m in Sources */,
+				1CC42CC913A5EBFE00D6A4F0 /* MVDirectChatConnection.m in Sources */,
+				1CC42CCA13A5EC0200D6A4F0 /* MVChatUserWatchRule.m in Sources */,
+				1CC42CCB13A5EC0500D6A4F0 /* MVChatUser.m in Sources */,
+				1CC42CCC13A5EC0900D6A4F0 /* MVChatRoom.m in Sources */,
+				1CC42CCD13A5EC0D00D6A4F0 /* MVChatConnection.m in Sources */,
+				1CC42CCE13A5EC1E00D6A4F0 /* AsyncSocket.m in Sources */,
+				1CC42CD013A5EC2E00D6A4F0 /* RegexKitLite.m in Sources */,
+				1CC42CD113A5EC3800D6A4F0 /* MVIRCFileTransfer.m in Sources */,
+				1CC42CD213A5EC3C00D6A4F0 /* MVIRCChatUser.m in Sources */,
+				1CC42CD313A5EC3F00D6A4F0 /* MVIRCChatRoom.m in Sources */,
+				1CC42CD413A5EC4300D6A4F0 /* MVIRCChatConnection.m in Sources */,
+				1CC42D1B13A6814B00D6A4F0 /* MVChatConnectionAdditions.m in Sources */,
+				1CC42D1C13A6815B00D6A4F0 /* CQKeychain.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1CC42CEC13A67EDA00D6A4F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CC42CF413A67EE900D6A4F0 /* NSCharacterSetAdditions.m in Sources */,
+				1CC42CF513A67EE900D6A4F0 /* NSDataAdditions.m in Sources */,
+				1CC42CF613A67EE900D6A4F0 /* NSDictionaryAdditions.m in Sources */,
+				1CC42CF713A67EE900D6A4F0 /* NSMethodSignatureAdditions.m in Sources */,
+				1CC42CF813A67EE900D6A4F0 /* NSNotificationAdditions.m in Sources */,
+				1CC42CF913A67EE900D6A4F0 /* NSObjectAdditions.m in Sources */,
+				1CC42CFA13A67EE900D6A4F0 /* NSScannerAdditions.m in Sources */,
+				1CC42CFB13A67EE900D6A4F0 /* NSStringAdditions.m in Sources */,
+				1CC42D1A13A6811900D6A4F0 /* InterThreadMessaging.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DD76F990486AA7600D96B5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DD76F9A0486AA7600D96B5E /* ColloquyDaemon.m in Sources */,
+				1C15B2751311B621006FA16B /* CQJavaScriptBridge.m in Sources */,
+				1CCF503D1336A2D0004294C9 /* CQColloquyDaemon.m in Sources */,
+				1C1EF109133F5562006FABCF /* CQDaemonClientConnectionController.m in Sources */,
+				1C1EF10C133F5587006FABCF /* CQDaemonClientConnection.m in Sources */,
+				1C1EF111133FF51C006FABCF /* CQDaemonLocalClientConnection.m in Sources */,
+				1CD4B77B1352169E0086EDE8 /* CQDaemonChatConnectionController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1C15B1DD1310D01E006FA16B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8DD76F960486AA7600D96B5E /* Colloquy Daemon */;
+			targetProxy = 1C15B1DC1310D01E006FA16B /* PBXContainerItemProxy */;
+		};
+		1CC42CD613A5EC5B00D6A4F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1CC42CC213A5EB9200D6A4F0 /* Chat Core */;
+			targetProxy = 1CC42CD513A5EC5B00D6A4F0 /* PBXContainerItemProxy */;
+		};
+		1CC42CFD13A67F4900D6A4F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1CC42CEF13A67EDA00D6A4F0 /* Additions */;
+			targetProxy = 1CC42CFC13A67F4900D6A4F0 /* PBXContainerItemProxy */;
+		};
+		1CC42CFF13A67F5100D6A4F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1CC42CEF13A67EDA00D6A4F0 /* Additions */;
+			targetProxy = 1CC42CFE13A67F5100D6A4F0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		1C15B1E81310DF8B006FA16B /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1C15B1E91310DF8B006FA16B /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1C15B1D91310CFF6006FA16B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ARC_MIGRATION = precheck;
+				INFOPLIST_FILE = Mac/Application/Resources/Info.plist;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		1C15B1DA1310CFF6006FA16B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ARC_MIGRATION = precheck;
+				INFOPLIST_FILE = Mac/Application/Resources/Info.plist;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		1CC42CC513A5EB9200D6A4F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_PREFIX = "";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(GCC_PREPROCESSOR_DEFINITIONS)",
+					COMMAND_LINE_UTILITY,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		1CC42CC613A5EB9200D6A4F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_PREFIX = "";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(GCC_PREPROCESSOR_DEFINITIONS)",
+					COMMAND_LINE_UTILITY,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		1CC42CF113A67EDA00D6A4F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_PREFIX = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		1CC42CF213A67EDA00D6A4F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_PREFIX = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		1DEB927508733DD40010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ARC_MIGRATION = precheck;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(GCC_PREPROCESSOR_DEFINITIONS)",
+					COMMAND_LINE_UTILITY,
+				);
+				PRODUCT_NAME = ColloquyDaemon;
+			};
+			name = Debug;
+		};
+		1DEB927608733DD40010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ARC_MIGRATION = precheck;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(GCC_PREPROCESSOR_DEFINITIONS)",
+					COMMAND_LINE_UTILITY,
+				);
+				PRODUCT_NAME = ColloquyDaemon;
+			};
+			name = Release;
+		};
+		1DEB927908733DD40010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1C61A55213106225009DF5DF /* Base.xcconfig */;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEPLOYMENT_POSTPROCESSING = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREFIX_HEADER = Mac/Colloquy.pch;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					USE_HTML_CHAT_STRING,
+					"ENABLE_AUTO_PORT_MAPPING=0",
+					"ENABLE_SCRIPTING=0",
+					"ENABLE_PLUGINS=0",
+					"ENABLE_SILC=0",
+					"ENABLE_ICB=0",
+					"ENABLE_XMPP=0",
+					RKL_FAST_MUTABLE_CHECK,
+					"RKL_CACHE_SIZE=47",
+					"RKL_BLOCKS=0",
+				);
+				HEADER_SEARCH_PATHS = "\"$(SOURCE_ROOT)\"";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = "";
+			};
+			name = Debug;
+		};
+		1DEB927A08733DD40010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1C61A55213106225009DF5DF /* Base.xcconfig */;
+			buildSettings = {
+				GCC_PREFIX_HEADER = Mac/Colloquy.pch;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(GCC_PREPROCESSOR_DEFINITIONS)",
+					USE_HTML_CHAT_STRING,
+					"ENABLE_AUTO_PORT_MAPPING=0",
+					"ENABLE_SCRIPTING=0",
+					"ENABLE_PLUGINS=0",
+					"ENABLE_SILC=0",
+					"ENABLE_ICB=0",
+					"ENABLE_XMPP=0",
+					RKL_FAST_MUTABLE_CHECK,
+					"RKL_CACHE_SIZE=47",
+					"RKL_BLOCKS=0",
+				);
+				HEADER_SEARCH_PATHS = "\"$(SOURCE_ROOT)\"";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1C15B1D81310CFF6006FA16B /* Build configuration list for PBXNativeTarget "Colloquy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1C15B1D91310CFF6006FA16B /* Debug */,
+				1C15B1DA1310CFF6006FA16B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1CC42CC413A5EB9200D6A4F0 /* Build configuration list for PBXNativeTarget "Chat Core" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1CC42CC513A5EB9200D6A4F0 /* Debug */,
+				1CC42CC613A5EB9200D6A4F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1CC42CF313A67EDA00D6A4F0 /* Build configuration list for PBXNativeTarget "Additions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1CC42CF113A67EDA00D6A4F0 /* Debug */,
+				1CC42CF213A67EDA00D6A4F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB927408733DD40010E9CD /* Build configuration list for PBXNativeTarget "Colloquy Daemon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB927508733DD40010E9CD /* Debug */,
+				1DEB927608733DD40010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB927808733DD40010E9CD /* Build configuration list for PBXProject "Colloquy (Mac)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB927908733DD40010E9CD /* Debug */,
+				1DEB927A08733DD40010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

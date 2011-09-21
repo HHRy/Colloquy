@@ -1,0 +1,134 @@
+10
+
+dir
+5341
+http://source.colloquy.info/svn/trunk/Languages/pt_PT.lproj
+http://source.colloquy.info/svn
+
+
+
+2011-08-25T22:23:06.413428Z
+5341
+akempgen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cc480944-b4dd-0310-b5e3-89908df9b951
+
+JVNotificationPreferences.nib
+dir
+
+JVTranscriptCriterion.nib
+dir
+
+JVTranscriptPreferences.nib
+dir
+
+JVChatTranscriptBrowserPanel.nib
+dir
+
+JVFind.nib
+dir
+
+JVChatRoomBrowser.nib
+dir
+
+JVBehaviorPreferences.nib
+dir
+
+JVAppearancePreferences.nib
+dir
+
+JVInterfacePreferences.nib
+dir
+
+MVConnections.nib
+dir
+
+JVConnectionInspector.nib
+dir
+
+MVFileTransfer.nib
+dir
+
+JVChatViewCriterion.nib
+dir
+
+MVCrashCatcher.nib
+dir
+
+JVBuddyInspector.nib
+dir
+
+JVChatMemberInspector.nib
+dir
+
+JVSmartTranscriptFilterSheet.nib
+dir
+
+JVGeneralPreferences.nib
+dir
+
+MVSoftwareUpdate.nib
+dir
+
+TSCustomBan.nib
+dir
+
+Localizable.strings
+file
+
+
+
+
+2011-09-21T19:30:50.000000Z
+4fbc9efed02ac4229469cd787be6ea21
+2006-09-21T05:34:13.192863Z
+3358
+timothy
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+104486
+
+JVRoomInspector.nib
+dir
+
+JVFileTransferPreferences.nib
+dir
+
+MVBuddyList.nib
+dir
+
+Colloquy.nib
+dir
+

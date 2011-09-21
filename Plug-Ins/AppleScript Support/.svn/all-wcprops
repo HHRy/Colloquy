@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5322/trunk/Plug-Ins/AppleScript%20Support
+END
+JVAppleScriptChatPlugin.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5102/trunk/Plug-Ins/AppleScript%20Support/JVAppleScriptChatPlugin.m
+END
+JVAppleScriptPluginLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2364/trunk/Plug-Ins/AppleScript%20Support/JVAppleScriptPluginLoader.h
+END
+JVAppleScriptEditorPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2373/trunk/Plug-Ins/AppleScript%20Support/JVAppleScriptEditorPanel.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3751/trunk/Plug-Ins/AppleScript%20Support/Info.plist
+END
+JVAppleScriptPluginLoader.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5322/trunk/Plug-Ins/AppleScript%20Support/JVAppleScriptPluginLoader.m
+END
+JVAppleScriptEditorPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4397/trunk/Plug-Ins/AppleScript%20Support/JVAppleScriptEditorPanel.m
+END
+JVAppleScriptChatPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2374/trunk/Plug-Ins/AppleScript%20Support/JVAppleScriptChatPlugin.h
+END
+compile.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2373/trunk/Plug-Ins/AppleScript%20Support/compile.png
+END
+scriptEditor.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2364/trunk/Plug-Ins/AppleScript%20Support/scriptEditor.png
+END

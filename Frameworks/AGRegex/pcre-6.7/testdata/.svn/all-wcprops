@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata
+END
+testinput1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testinput1
+END
+testoutput1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testoutput1
+END
+testinput2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testinput2
+END
+testoutput2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testoutput2
+END
+testinput3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testinput3
+END
+testoutput3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testoutput3
+END
+testinput4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testinput4
+END
+testinput5
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testinput5
+END
+testoutput4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testoutput4
+END
+testinput6
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testinput6
+END
+testoutput5
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testoutput5
+END
+testinput7
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testinput7
+END
+testoutput6
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testoutput6
+END
+testinput8
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testinput8
+END
+testoutput7
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testoutput7
+END
+testinput9
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testinput9
+END
+testoutput8
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testoutput8
+END
+greplist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/greplist
+END
+testoutput9
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/testoutput9
+END
+grepinputx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/grepinputx
+END
+grepinput
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/grepinput
+END
+grepoutput
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3642/trunk/Frameworks/AGRegex/pcre-6.7/testdata/grepoutput
+END

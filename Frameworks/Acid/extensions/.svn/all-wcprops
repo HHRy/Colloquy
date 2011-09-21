@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/extensions
+END
+NSString+Misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/extensions/NSString+Misc.h
+END
+NSMutableArray+InsertSort.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/extensions/NSMutableArray+InsertSort.h
+END
+NSString+Misc.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/extensions/NSString+Misc.m
+END
+NSMutableArray+InsertSort.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/extensions/NSMutableArray+InsertSort.m
+END
+NSMutableString.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/extensions/NSMutableString.m
+END

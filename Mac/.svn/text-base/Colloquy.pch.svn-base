@@ -1,0 +1,32 @@
+#define ENABLE(FEATURE) (defined(ENABLE_##FEATURE) && ENABLE_##FEATURE)
+#define SYSTEM(NAME) (defined(SYSTEM_##NAME) && SYSTEM_##NAME)
+
+#define LIKELY(x) __builtin_expect((x) ? 1 : 0, 1)
+#define UNLIKELY(x) __builtin_expect((x) ? 1 : 0, 0)
+
+#define SYSTEM_MAC 1
+
+#ifdef __OBJC__
+
+#ifdef COMMAND_LINE_UTILITY
+#import <Foundation/Foundation.h>
+#else
+#import <Cocoa/Cocoa.h>
+#endif
+
+#import "NSCharacterSetAdditions.h"
+#import "NSDataAdditions.h"
+#import "NSDictionaryAdditions.h"
+#import "NSMethodSignatureAdditions.h"
+#import "NSNotificationAdditions.h"
+#import "NSObjectAdditions.h"
+#import "NSScannerAdditions.h"
+#import "NSStringAdditions.h"
+
+#endif
+
+#import "MVUtilities.h"
+
+#if !defined(__unsafe_unretained)
+#define objc_unretainedObject(object) (id)(object)
+#endif

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/5323/trunk/Models
+END
+JVEmoticonSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3072/trunk/Models/JVEmoticonSet.h
+END
+JVChatTranscript.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4386/trunk/Models/JVChatTranscript.h
+END
+JVChatMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5289/trunk/Models/JVChatMessage.m
+END
+KAIgnoreRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5234/trunk/Models/KAIgnoreRule.m
+END
+JVEmoticonSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5114/trunk/Models/JVEmoticonSet.m
+END
+JVChatTranscript.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5323/trunk/Models/JVChatTranscript.m
+END
+MVKeyChain.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3072/trunk/Models/MVKeyChain.h
+END
+JVStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3418/trunk/Models/JVStyle.h
+END
+MVKeyChain.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4386/trunk/Models/MVKeyChain.m
+END
+JVStyle.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5231/trunk/Models/JVStyle.m
+END
+JVBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3511/trunk/Models/JVBuddy.h
+END
+JVSQLChatTranscript.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3236/trunk/Models/JVSQLChatTranscript.h
+END
+JVBuddy.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5231/trunk/Models/JVBuddy.m
+END
+JVSQLChatTranscript.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5115/trunk/Models/JVSQLChatTranscript.m
+END
+JVChatEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3247/trunk/Models/JVChatEvent.h
+END
+JVChatSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3072/trunk/Models/JVChatSession.h
+END
+JVChatMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4386/trunk/Models/JVChatMessage.h
+END
+JVChatEvent.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5296/trunk/Models/JVChatEvent.m
+END
+KAIgnoreRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3418/trunk/Models/KAIgnoreRule.h
+END
+JVChatSession.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3247/trunk/Models/JVChatSession.m
+END

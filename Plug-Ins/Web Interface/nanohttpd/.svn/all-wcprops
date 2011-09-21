@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3701/trunk/Plug-Ins/Web%20Interface/nanohttpd
+END
+url_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3552/trunk/Plug-Ins/Web%20Interface/nanohttpd/url_map.c
+END
+http_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3552/trunk/Plug-Ins/Web%20Interface/nanohttpd/http_log.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3001/trunk/Plug-Ins/Web%20Interface/nanohttpd/utils.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3552/trunk/Plug-Ins/Web%20Interface/nanohttpd/hash.c
+END
+netbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3552/trunk/Plug-Ins/Web%20Interface/nanohttpd/netbuf.c
+END
+nanohttpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3552/trunk/Plug-Ins/Web%20Interface/nanohttpd/nanohttpd.h
+END
+http_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3553/trunk/Plug-Ins/Web%20Interface/nanohttpd/http_server.c
+END
+http_req.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3701/trunk/Plug-Ins/Web%20Interface/nanohttpd/http_req.c
+END
+mime.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3552/trunk/Plug-Ins/Web%20Interface/nanohttpd/mime.c
+END
+http_resp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3700/trunk/Plug-Ins/Web%20Interface/nanohttpd/http_resp.c
+END
+basic_modules.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3698/trunk/Plug-Ins/Web%20Interface/nanohttpd/basic_modules.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3552/trunk/Plug-Ins/Web%20Interface/nanohttpd/list.c
+END

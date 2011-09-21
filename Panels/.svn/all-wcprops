@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/5340/trunk/Panels
+END
+JVDirectChatPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5237/trunk/Panels/JVDirectChatPanel.h
+END
+JVChatTabItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3418/trunk/Panels/JVChatTabItem.m
+END
+JVChatRoomPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4386/trunk/Panels/JVChatRoomPanel.h
+END
+JVDirectChatPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5340/trunk/Panels/JVDirectChatPanel.m
+END
+JVChatRoomPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5340/trunk/Panels/JVChatRoomPanel.m
+END
+JVFileTransferPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3072/trunk/Panels/JVFileTransferPreferences.h
+END
+JVNotificationPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3072/trunk/Panels/JVNotificationPreferences.h
+END
+JVChatTranscriptPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3755/trunk/Panels/JVChatTranscriptPanel.h
+END
+JVFileTransferPreferences.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3072/trunk/Panels/JVFileTransferPreferences.m
+END
+JVNotificationPreferences.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5115/trunk/Panels/JVNotificationPreferences.m
+END
+JVChatTranscriptPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5328/trunk/Panels/JVChatTranscriptPanel.m
+END
+MVChatUserAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3539/trunk/Panels/MVChatUserAdditions.h
+END
+JVSmartTranscriptPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5113/trunk/Panels/JVSmartTranscriptPanel.h
+END
+JVBehaviorPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3072/trunk/Panels/JVBehaviorPreferences.h
+END
+JVChatConsolePanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4386/trunk/Panels/JVChatConsolePanel.h
+END
+MVChatUserAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5328/trunk/Panels/MVChatUserAdditions.m
+END
+JVSmartTranscriptPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5115/trunk/Panels/JVSmartTranscriptPanel.m
+END
+JVBehaviorPreferences.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3072/trunk/Panels/JVBehaviorPreferences.m
+END
+JVChatConsolePanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4386/trunk/Panels/JVChatConsolePanel.m
+END
+JVGeneralPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3072/trunk/Panels/JVGeneralPreferences.h
+END
+JVGeneralPreferences.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3072/trunk/Panels/JVGeneralPreferences.m
+END
+JVChatRoomMember.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3480/trunk/Panels/JVChatRoomMember.h
+END
+JVChatRoomMember.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5328/trunk/Panels/JVChatRoomMember.m
+END
+JVTranscriptPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3418/trunk/Panels/JVTranscriptPreferences.h
+END
+JVChatTranscriptBrowserPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4386/trunk/Panels/JVChatTranscriptBrowserPanel.h
+END
+JVTranscriptPreferences.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3072/trunk/Panels/JVTranscriptPreferences.m
+END
+JVAppearancePreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3072/trunk/Panels/JVAppearancePreferences.h
+END
+JVInterfacePreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3418/trunk/Panels/JVInterfacePreferences.h
+END
+JVChatTranscriptBrowserPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5115/trunk/Panels/JVChatTranscriptBrowserPanel.m
+END
+JVChatTabItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3072/trunk/Panels/JVChatTabItem.h
+END
+JVAppearancePreferences.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5115/trunk/Panels/JVAppearancePreferences.m
+END
+JVInterfacePreferences.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5115/trunk/Panels/JVInterfacePreferences.m
+END

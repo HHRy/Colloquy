@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5312/trunk/Mac/Daemon/Controllers
+END
+CQDaemonClientConnectionController.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5301/trunk/Mac/Daemon/Controllers/CQDaemonClientConnectionController.h
+END
+CQDaemonChatConnectionController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5312/trunk/Mac/Daemon/Controllers/CQDaemonChatConnectionController.h
+END
+CQDaemonClientConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5304/trunk/Mac/Daemon/Controllers/CQDaemonClientConnection.m
+END
+CQColloquyDaemon.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5304/trunk/Mac/Daemon/Controllers/CQColloquyDaemon.h
+END
+CQDaemonClientConnectionController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5305/trunk/Mac/Daemon/Controllers/CQDaemonClientConnectionController.m
+END
+CQDaemonChatConnectionController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5312/trunk/Mac/Daemon/Controllers/CQDaemonChatConnectionController.m
+END
+CQDaemonClientConnectionPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5304/trunk/Mac/Daemon/Controllers/CQDaemonClientConnectionPrivate.h
+END
+CQDaemonLocalClientConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5301/trunk/Mac/Daemon/Controllers/CQDaemonLocalClientConnection.h
+END
+CQColloquyDaemon.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5307/trunk/Mac/Daemon/Controllers/CQColloquyDaemon.m
+END
+CQDaemonClientConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5304/trunk/Mac/Daemon/Controllers/CQDaemonClientConnection.h
+END
+CQDaemonLocalClientConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5304/trunk/Mac/Daemon/Controllers/CQDaemonLocalClientConnection.m
+END

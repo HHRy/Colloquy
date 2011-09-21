@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/utility/idn
+END
+gunidecomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/utility/idn/gunidecomp.h
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/utility/idn/internal.h
+END
+nfkc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/utility/idn/nfkc.c
+END
+stringprep.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/utility/idn/stringprep.h
+END
+profiles.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/utility/idn/profiles.c
+END
+gunicomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/utility/idn/gunicomp.h
+END
+stringprep_generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3641/trunk/Frameworks/Acid/utility/idn/stringprep_generic.c
+END
+toutf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/utility/idn/toutf8.c
+END
+stringprep.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3640/trunk/Frameworks/Acid/utility/idn/stringprep.c
+END

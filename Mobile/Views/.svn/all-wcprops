@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5309/trunk/Mobile/Views
+END
+CQChatRoomInfoTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4671/trunk/Mobile/Views/CQChatRoomInfoTableCell.m
+END
+CQActionSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4471/trunk/Mobile/Views/CQActionSheet.h
+END
+CQAlertView.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5037/trunk/Mobile/Views/CQAlertView.m
+END
+CQActionSheet.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4471/trunk/Mobile/Views/CQActionSheet.m
+END
+CQTableViewSectionHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4736/trunk/Mobile/Views/CQTableViewSectionHeader.h
+END
+CQPreferencesSwitchCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4671/trunk/Mobile/Views/CQPreferencesSwitchCell.h
+END
+CQPreferencesDeleteCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4671/trunk/Mobile/Views/CQPreferencesDeleteCell.h
+END
+CQTableViewSectionHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4949/trunk/Mobile/Views/CQTableViewSectionHeader.m
+END
+CQPreferencesSwitchCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4992/trunk/Mobile/Views/CQPreferencesSwitchCell.m
+END
+CQPreferencesDeleteCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4992/trunk/Mobile/Views/CQPreferencesDeleteCell.m
+END
+CQPreferencesTextViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4839/trunk/Mobile/Views/CQPreferencesTextViewCell.h
+END
+CQPreferencesTextViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4998/trunk/Mobile/Views/CQPreferencesTextViewCell.m
+END
+CQPreferencesTextCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4671/trunk/Mobile/Views/CQPreferencesTextCell.h
+END
+CQConnectionTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4469/trunk/Mobile/Views/CQConnectionTableCell.h
+END
+CQTextCompletionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4469/trunk/Mobile/Views/CQTextCompletionView.h
+END
+CQPreferencesTextCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4992/trunk/Mobile/Views/CQPreferencesTextCell.m
+END
+CQConnectionTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4981/trunk/Mobile/Views/CQConnectionTableCell.m
+END
+CQTextCompletionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4894/trunk/Mobile/Views/CQTextCompletionView.m
+END
+CQTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5046/trunk/Mobile/Views/CQTextView.h
+END
+CQUnreadCountView.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4176/trunk/Mobile/Views/CQUnreadCountView.h
+END
+CQTextView.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4826/trunk/Mobile/Views/CQTextView.m
+END
+CQChatInputBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4491/trunk/Mobile/Views/CQChatInputBar.h
+END
+CQChatTranscriptView.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5098/trunk/Mobile/Views/CQChatTranscriptView.h
+END
+CQUnreadCountView.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4585/trunk/Mobile/Views/CQUnreadCountView.m
+END
+CQChatTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4650/trunk/Mobile/Views/CQChatTableCell.h
+END
+CQChatInputBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5066/trunk/Mobile/Views/CQChatInputBar.m
+END
+CQChatTranscriptView.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5309/trunk/Mobile/Views/CQChatTranscriptView.m
+END
+CQChatTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4872/trunk/Mobile/Views/CQChatTableCell.m
+END
+CQFileTransferTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4783/trunk/Mobile/Views/CQFileTransferTableCell.h
+END
+CQChatRoomInfoTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4536/trunk/Mobile/Views/CQChatRoomInfoTableCell.h
+END
+CQFileTransferTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4783/trunk/Mobile/Views/CQFileTransferTableCell.m
+END
+CQAlertView.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4946/trunk/Mobile/Views/CQAlertView.h
+END
